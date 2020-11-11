@@ -6,18 +6,23 @@
 $TTL	86400
 $ORIGIN joeri-sprengers.sb.uclllabs.be.
 @	IN	SOA	ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
-			      4		; Serial
+			      6		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			  86400 )	; Negative Cache TTL
 ; Name Servers
+	IN	NS	ns.joeri-sprengers.sb.uclllabs.be.
 	IN	NS	ns1.uclllabs.be.
 	IN	NS	ns2.uclllabs.be.
+
 
 ; A Records
 www	IN	A	193.191.177.158
 @	IN	A	193.191.177.158
 test	IN	A	193.191.177.254
+ns.joeri-sprengers.sb.uclllabs.be.	IN	A	 193.191.177.158
+ns1.uclllabs.be.	IN	A	193.191.176.254
+ns2.uclllabs.be.        IN      A       193.191.177.4
 
 ;@      IN      NS      localhost.
