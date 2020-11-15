@@ -5,8 +5,9 @@
 ;
 $TTL	300
 $ORIGIN joeri-sprengers.sb.uclllabs.be.
+@	in	CAA	1 issue "letsencrypt.org"
 @	IN	SOA	ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
-			2020111502	; Serial
+			2020111503	; Serial
 			  300		; Refresh
 			  86400		; Retry
 			2419200		; Expire
