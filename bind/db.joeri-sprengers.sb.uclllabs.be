@@ -6,7 +6,7 @@
 $TTL	300
 $ORIGIN joeri-sprengers.sb.uclllabs.be.
 @	IN	SOA	ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
-			2020111101	; Serial
+			2020111502	; Serial
 			  300		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -21,6 +21,8 @@ $ORIGIN joeri-sprengers.sb.uclllabs.be.
 www	IN	A	193.191.177.158
 www1    IN      A       193.191.177.158
 www2    IN      A       193.191.177.158
+secure    IN      A       193.191.177.158
+supersecure    IN      A       193.191.177.158
 @	IN	A	193.191.177.158
 test	IN	A	193.191.177.254
 ns.joeri-sprengers.sb.uclllabs.be.	IN	A	 193.191.177.158
