@@ -7,7 +7,7 @@ $TTL	300
 $ORIGIN joeri-sprengers.sb.uclllabs.be.
 @	in	CAA	1 issue "letsencrypt.org"
 @	IN	SOA	ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
-			2020111804	; Serial
+			2020111806	; Serial
 			  300		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -19,6 +19,7 @@ $ORIGIN joeri-sprengers.sb.uclllabs.be.
 
 
 ; A Records
+mx	IN	A	193.191.177.158
 www	IN	A	193.191.177.158
 www1    IN      A       193.191.177.158
 www2    IN      A       193.191.177.158
@@ -32,6 +33,6 @@ ns2.uclllabs.be.        IN      A       193.191.177.4
 
 @       IN      CAA     0 iodef "mailto:joeri-sprengers@student.ucll.be"
 
-       IN      MX      10 mx.joeri-sprengers.sb.uclllabs.be.
+        IN      MX    10 mx.joeri-sprengers.sb.uclllabs.be.
 
 ;@      IN      NS      localhost.

@@ -5,7 +5,7 @@
 #uri = 
 
 # Default password scheme
-default_pass_scheme = MD5
+default_pass_scheme = plain
 
 # Username iteration prefix. Keys under this are assumed to contain usernames.
 iterate_prefix = userdb/
@@ -51,4 +51,14 @@ userdb_fields {
 
   # dict:<key>.<objkey> refers to the objkey inside (JSON) object
   mail = maildir:%{dict:userdb.home}/Maildir
+}
+
+auth default {
+  mechanisms = plain
+  passdb passwd-file {
+    args = /etc/dovecot/passwd
+  }
+  userdb static {
+    args = uid=vmail gid=vmail home=/home/vmail/%u
+  }
 }

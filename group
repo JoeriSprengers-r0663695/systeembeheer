@@ -63,3 +63,7 @@ mysql:x:120:
 dovecot:x:121:
 dovenull:x:122:
 vmail:x:5000:
+john:x:5001:
+user1:x:1002:
+stunnel4:x:123:
+testuser:x:1003:
