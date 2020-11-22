@@ -1,0 +1,64 @@
+#!/bin/bash
+
+if  [[ $(/usr/bin/id -u) -ne 0 ]]; then
+    echo "Not running as root"
+    exit
+fi
+
+zone=$1
+
+FILENAME='db.'"$zone"'.joeri-sprengers.sb.uclllabs.be'
+FILE=/etc/bind/$FILENAME
+if test -f "$FILE"; then
+
+        echo 'Zone '"$1"' already exists'
+
+else
+
+echo 'Creating zone'
+#Add zone into named.conf.local
+input="/etc/bind/named.conf.local"
+echo 'zone "'"$zone"'.joeri-sprengers.sb.uclllabs.be" {
+  type master;
+  file "/etc/bind/'"$FILENAME"'";
+  allow-transfer { 193.191.176.254; 193.191.177.4;193.191.177.149;127.0.0.1;};
+};
+' >> $input
+
+#Create db.$.joeri-sprengers.sb.uclllabs.be file
+output=/etc/bind/$FILENAME
+echo 'Creating file: '"$FILENAME"
+echo '
+$TTL 300     ;86400
+$ORIGIN '"$zone"'.joeri-sprengers.sb.uclllabs.be.
+@       IN      SOA    '"$zone"'.joeri-sprengers.sb.uclllabs.be. root.'"$zone"'.joeri-sprengers.sb.uclllabs.be. (
+                                10              ;Serial
+                                300          ;Refresh
+                                86400           ;Retry
+                                2419200         ;Expire
+                                300 )         ;Negative Cache TTL
+;Name servers
+@       IN      NS      ns.'"$zone"'.joeri-sprengers.sb.uclllabs.be.
+@       IN      NS      ns.joeri-sprengers.sb.uclllabs.be.
+;A records
+ns      IN       A      193.191.177.158
+@       IN       A      193.191.177.158
+' >> $output
+
+#update db.joeri-sprengers.sb.uclllabs.be
+DBFILE=/etc/bind/db.joeri-sprengers.sb.uclllabs.be
+echo "$zone"'      IN      NS      ns.joeri-sprengers.sb.uclllabs.be.' >> $DBFILE
+
+#update serial in db.joeri-sprengers.sb.uclllabs.be
+Serial=$(grep 'Serial' /etc/bind/db.joeri-sprengers.sb.uclllabs.be)
+SerialNumber=$(echo $Serial | sed 's/[^0-9]*//g')
+((SerialNumber++))
+newSerial='                                '"$SerialNumber"'        ;Serial'
+sed -i "s/.*Serial.*/\t\t\t      $newSerial/g" /etc/bind/db.joeri-sprengers.sb.uclllabs.be
+
+#Restart bind9 service
+echo 'Restarting bind9'
+systemctl restart bind9
+
+echo 'Finished'
+fi
