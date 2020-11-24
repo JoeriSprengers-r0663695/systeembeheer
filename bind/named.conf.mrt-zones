@@ -1,0 +1,12 @@
+zone "test1.joeri-sprengers.sb.uclllabs.be" {
+  type master;
+  file "/etc/bind/db.test1.joeri-sprengers.sb.uclllabs.be";
+  allow-transfer { 193.191.176.254; 193.191.177.4;193.191.177.149;127.0.0.1;};
+};
+
+zone "subzoneahp3eb.joeri-sprengers.sb.uclllabs.be" {
+  type master;
+  file "/etc/bind/db.subzoneahp3eb.joeri-sprengers.sb.uclllabs.be";
+  allow-transfer { 193.191.176.254; 193.191.177.4;193.191.177.149;127.0.0.1;};
+};
+

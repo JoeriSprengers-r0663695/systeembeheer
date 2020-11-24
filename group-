@@ -66,3 +66,8 @@ vmail:x:5000:
 john:x:5001:
 user1:x:1002:
 stunnel4:x:123:
+testuser:x:1003:
+wireshark:x:124:
+ftp:x:125:
+mystery1_2014:x:1004:
+redis:x:126:

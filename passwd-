@@ -38,4 +38,8 @@ vmail:x:5000:5000::/var/mail:/bin/sh
 john:x:5001:5001::/home/john:/bin/sh
 user1:x:1002:1002:,,,:/home/user1:/bin/bash
 stunnel4:x:115:123::/var/run/stunnel4:/usr/sbin/nologin
-testuser:x:1003:1003::/home/testuser:/bin/bash
+testuser:x:1003:1003:,,,:/home/testuser:/bin/bash
+ftp:x:116:125:ftp daemon,,,:/srv/ftp:/usr/sbin/nologin
+mystery1_2014:x:1004:1004:,,,:/home/mystery1_2014:/bin/bash
+redis:x:117:126::/var/lib/redis:/usr/sbin/nologin
+ntopng:x:118:127::/var/lib/ntopng:/usr/sbin/nologin
