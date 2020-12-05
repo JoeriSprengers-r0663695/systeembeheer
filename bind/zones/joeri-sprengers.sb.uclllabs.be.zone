@@ -1,0 +1,4 @@
+$TTL	300
+$INCLUDE Kjoeri-sprengers.sb.uclllabs.be.+007+25988.key
+$INCLUDE Kjoeri-sprengers.sb.uclllabs.be.+007+60501.key
+@       IN      SOA     ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (2020112603 300 300 300 300)

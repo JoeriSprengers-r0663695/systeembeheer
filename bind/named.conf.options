@@ -33,4 +33,9 @@ options {
        // disallow zone transfer
        allow-transfer { none; };
 
+
+	//dnssec-enable yes;
+	//dnssec-validation yes;
+	//dnssec-lookaside auto;
+
 };

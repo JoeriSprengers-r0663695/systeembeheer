@@ -71,4 +71,10 @@ wireshark:x:124:
 ftp:x:125:
 mystery1_2014:x:1004:
 redis:x:126:
-ntopng:x:127:
+elasticsearch:x:128:
+vboxusers:x:129:
+n2n:x:998:
+n2disk:x:997:ntopng
+cento:x:996:
+nprobe:x:995:
+ntopng:x:994:

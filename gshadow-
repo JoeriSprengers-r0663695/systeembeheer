@@ -71,3 +71,10 @@ wireshark:!::
 ftp:!::
 mystery1_2014:!::
 redis:!::
+elasticsearch:!::
+vboxusers:!::
+n2n:!::
+n2disk:!::
+cento:!::
+nprobe:!::
+ntopng:!::

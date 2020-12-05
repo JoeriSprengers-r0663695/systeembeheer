@@ -9,9 +9,7 @@ include "/etc/bind/named.conf.mrt-zones";
 
 zone "joeri-sprengers.sb.uclllabs.be" {
       type master;
-      file "/etc/bind/db.joeri-sprengers.sb.uclllabs.be";
+      file "/etc/bind/zones/db.joeri-sprengers.sb.uclllabs.be.signed";
       allow-transfer { 193.191.176.254; 193.191.177.4;193.191.177.149;127.0.0.1; };
       also-notify { 193.191.177.4; 193.191.176.254; };
 };
-
-

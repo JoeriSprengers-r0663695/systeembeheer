@@ -1,0 +1,491 @@
+; File written on Fri Dec  4 14:16:16 2020
+; dnssec_signzone version 9.16.1-Ubuntu
+joeri-sprengers.sb.uclllabs.be.	300 IN SOA ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
+					2020120417 ; serial
+					300        ; refresh (5 minutes)
+					86400      ; retry (1 day)
+					2419200    ; expire (4 weeks)
+					300        ; minimum (5 minutes)
+					)
+			300	RRSIG	SOA 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					WGOyHpHENfqCtnoqcjJrZLt7vujo7PJRwr27
+					qlrAzfQT8WJDjF7a/T41lBqJxXN5VMSixAng
+					D3Tt4um7bU0phbANmVQud4tPPydDL82clCmY
+					XQADolo4DZETeJ0Y8uLAIdbJcdOOn3QK+uzq
+					lHz91mVkmPtq23l6y2dTxKwcyAxLbdwDdz7S
+					FpTnlXx66mHadDu1uOM6W2I5qwInDIpk3jFQ
+					PUlWTG9qfZIzSST5j2fNE6sI4eh3vqbu3dOM
+					X16LCEf9p7nZBSZLm4nRz3PqJ7Uj68XlIWe+
+					9y37Fe4bgMg4dv945o4pwwgAkcF6Xcuk/w1r
+					Vfn5rZt5bR0BBXdfzQ== )
+			300	NS	ns.joeri-sprengers.sb.uclllabs.be.
+			300	NS	ns1.uclllabs.be.
+			300	NS	ns2.uclllabs.be.
+			300	RRSIG	NS 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					PaRRfGmDwvUpUnKCDjFj1wnEZWWvJPjrB2VR
+					u5QVCqFi5YcMoLWrTziRk/6Pu5q50eECQog7
+					/xARDu+oDAnET79cHF9DFkVloen/BKYGvmJ7
+					URUGR0qFl6X96b8Op0Nv05bQwaosOnBH+fW3
+					yT1OeqLRNv7nIqIGNtn2K58v3pPdxU5xsdfr
+					iJeqyZRfP9mBTMhZ/PcsJlMAglZqhTU1rZzt
+					0BIQry2etPuAC0Aa1yX9q6mof2KbOst3sizJ
+					xcIXZeAbfI6caBhGaaiRq8CQ3mc/SK8rBel7
+					9nT+p4wSQX7+kOD0oBGekmX9KT538Qu7Sg1M
+					aoahJJwrBLC//DwY8A== )
+			300	A	193.191.177.158
+			300	RRSIG	A 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					jHOLTLv6ZhjXZWzhBTEDINGqRNnHHBruEewq
+					sJudw2RAHpB08zIOmYthTWnwuqfQmWkR6uzD
+					l1Zdwb2+35KWg0Or/InD0Rbpn2QoJRRgWaru
+					JaE+1FI7Ri3CJq/urI3IKaAkQX7N1vmjsV3Y
+					GNUL+EOlmP2H1pV8AQu7oOS+D5t3VIwE7g6p
+					JaFMWs1yQ4W9R5BUzsToNoQoZpBwesqabdAt
+					LO0I8g7RKudxEoDKuIe1U7F8PtKRHL1P5oiK
+					7+q86g/ae7eVVHlOH/ggJISInj1VfkGSgZGc
+					P4LMvL/CF5v6jhSHhzUcZVDnicB5VPiEOiiB
+					C6d/oPEuYIK70tcaAA== )
+			300	MX	10 mx.joeri-sprengers.sb.uclllabs.be.
+			300	RRSIG	MX 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					kS85LgQvsp0gs/6Nst1UfgbuJ1tNqXlNgJk1
+					+qBYCsXaSUAaU3zB7H86ZP1cZjdlPRpsDFbY
+					UY9esDrMcJbG9pBWNktiOS91i9nVPw7id9SE
+					hKDlloy0+QzcEDynYCKK0UowCk2WJptbCCKO
+					3v+iEhcv/DqFl0urBSk1n1UxsBt31oeroOk0
+					GjZs+x8rpJxBhM5pPsGbQRqhAb9XRmACmJ3M
+					122uR6c9I409WRgRKWOdwYm6x+ONzTGHg4Yb
+					xz2uvJJszr9pE4gRLCQigUq8L49JgLINUzar
+					8crHO6Qv52P8P0pB1o8mGXz/YR+rGC16CI3f
+					Y7nvX/bZLKjZx6RGOA== )
+			300	AAAA	2001:6a8:2880:a077::9e
+			300	RRSIG	AAAA 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					YrvnanDFdY4+TfAjDYKskVK953C8Z5WzYGbO
+					6B70Rmg3EjFIRSUIRzrLRGH3zxgI/pTlfvmh
+					TrcDGEa1j7sO6OeMEUxpLRYlvsLFgCTwIMbC
+					SzPdk2cLoOj7MwPp079afaMqUWQwi470bKu+
+					767aGvSFUBOGcwLYHvw5X5UVUURJX+GdmvAj
+					g81I/QDCsr8ZT5gwoelMk5q/ntvUw26e95fS
+					dwyeC8P4yTLAu3ii8tE/TKtl5LUPyqvYunGk
+					AlqrgErHIerbbCeiEm1aW5r/+44VFQMGFrLH
+					unH/1NqW8VZot/Ts3OOmjGwMCcpuZmZWoiTA
+					ILWCQBis/hvqr1LOgg== )
+			300	DNSKEY	256 3 7 (
+					AwEAAa7MRVBzE+iAMtPMzRN/pNZvL27CtSxK
+					+f099Ak/3jibS+GKyuEVQFtn7XxRqouCKXII
+					oO1pQOucetvcBppLWJM0rK0sbEmoMhyuFsHP
+					G4WP1b2oGrP5vIc+4bg4PPNWNOW3npLVq7E+
+					z8XAz8dJZW4mCelMufExONKqUEVv+rwrUm8f
+					Cal2AGchAw+FVVq3P2Jln4nvDxZiakmURXDg
+					bqmMJCa2fKWsMZf45Vvje+OmL/+QiBuQ11QU
+					AlDU35umc6vtY7nmW2mQZsMFUWAYnY0y6bYH
+					NI82rTHakF46jhMMifv1WqasAXVzYE/LGZKm
+					4KE9zSNz/0BneYaxkzZX8iM=
+					) ; ZSK; alg = NSEC3RSASHA1 ; key id = 25988
+			300	DNSKEY	257 3 7 (
+					AwEAAb+oDnBYlSotCOBPgYIRoTh3uEr0/E2G
+					NlSrZFosBa5ehZjXhx/vX+D9OR8nL/2K0SOk
+					7cuXKDQh4qjXsg/UvYldZBS/jv3Dlp5pFqm8
+					x1rgTXsklMoWHN4h5rS/SyKgQa1SAUeAWiG8
+					xpkIKGq1l2DHo9RFSX1n80CEvUORwQdViSBR
+					LtS38en3caQLijcDaKudigM9/gwZh5AOa3dL
+					8CuRUcgEHFGepovj6W1Gv6Ih352ft+GY1KYQ
+					thdgRUH4Ys8L56SQJ8X3j6KUB8WxC38eDejy
+					3cqW6jAJtU6SpWj2meXaY4egdRV+yTCQyZPf
+					t2zBIsPucg3rUS1ksFZ60RfgwBYlM2tU5nFe
+					sUe/O9flusOoaZS5CDg6ys7Gr4J3CJ7d9jjn
+					gM4RFEhyaYYt4kpH3umA7mM5uvteZR7CZsA2
+					0d/vih2xsmIC2BizUUJB44wxt1QiWP6VAC/h
+					3Y22u5ud0nMoePfiNfeNDeH65CFpBhj4/TN0
+					GFQzKf2NoVeJxAM3gAoX+U4B/12aFCDPWn+v
+					jndZBuN0CJm7hx5EJmo7XHLP17o3Ak/70Kge
+					c0GkAgd/Dr7ceqJrfKSFAgUgCkC/egOP+OMZ
+					lBNzHEOLAJSnEbgnbIYYyOpN9QzHm5OX0wZX
+					29pcLvOoNczRuwgb/gqIO5ldpGBn/oPRoOk4
+					netR
+					) ; KSK; alg = NSEC3RSASHA1 ; key id = 60501
+			300	RRSIG	DNSKEY 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					E3/BJtIeQSxgCEEAe3x1pTW67Ju5ljSt/QwJ
+					XZVahrYAmfvnZHQ1G7WNNrR5yYJnxdhmyyO3
+					FnHCgz+Htgjbi9++lwm0BY7hNEh3O0ewoMjN
+					pvoVflruVncee0BGw/1dmnBeBoN73yLca5OB
+					zUBQsJ32n79G02Qil4/8yvmFG7t/0YK4q+Q0
+					xyp490iQY41RcKEYZ+pgMjb15gyCb2ZtmBlc
+					16XQMEAZ2JA1eItAAQSzf/lNDidejS23i6zC
+					xRJjX7uUYimfsuYdAn0nGmOrLnsomPZVujwz
+					EvtZ5oKaisgeEG0qxwLC7K4Er+PpdUV79ZtA
+					tlStSnI0e4R/dGqMOg== )
+			300	RRSIG	DNSKEY 7 4 300 (
+					20210103121616 20201204121616 60501 joeri-sprengers.sb.uclllabs.be.
+					pFG6BN4Jx7NAyX7iUszDWC5bcu1VbOOGZ0Zs
+					qOkf0gbaEzTlm08hLtTO0lEzz+CbCW1mGfR1
+					O00Bu7yExiX8FsKR3xNitjmLmH6/cwVsZ2Kt
+					5RZ7RnXYKixXJsjKg8ivuBEBeMqoG4AE0/6F
+					kNJ6VItwlqYUqkwZwE7RwEVAsffp5GHo5nlg
+					AvWrKXX1VYicdo63920to8JzLsBq9Osx8XQI
+					F6Aze9sYCMmDnEftww7oAh7iPZ2+vcFqTpxT
+					00MOBkaLgymKiYaJVK2pM0Mz/kaPgp2vngHD
+					X8WCMaIwgCo6nSBYjMqPg3YmK595o+1SCe6q
+					iGe8EDFKxFYJMBzFs9ehO3QccL8IlHRfAWfl
+					QLlSd2Omgrb+9i+GwCIwT+CCO+46mOiwjdl2
+					MoentwDV3KtZWiiYXwP0TxI8+KRiiIdDOb7i
+					akLonwbV0R1TLuTqhNc+VO1KtFQ6A3uXaFfv
+					PhqWk1SAvvXFmQsVZxkZKjjNmjX4nZPKOXVc
+					t3u77uu5Q74n9YiH/BqOGna+Rwz96TL0Q5/C
+					Yds48XNH3K97FAxm8WTNfEBQeMr5K/0JlUuA
+					wVeGzfxYBAToqi0lg5P7RAUe5EY7Nz6FenCh
+					+zLjwRn/o4i3mikN1CSU42/8znnSS8shq++g
+					nYK04IwWVcFyD15bwoKVAn5hwK0b2m7cIfM= )
+			0	NSEC3PARAM 1 0 10 DC1802AC511131B6
+			0	RRSIG	NSEC3PARAM 7 4 0 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					T2SWNnaTUJUZQpBnbtc1bRO875VjotkZb1Pw
+					L0U4VIaiXh2YtS9X8OUSU54oQbO8xnaeMRSi
+					9wwYhKJRmz9xQzK8ziWC3czx9jkpzS/aynXm
+					kKog120DseDCT17Ml2/zLViXcRZGg2kBKk00
+					G0WrOqLpSOJi+1pGDqkBK/kyCTycc5q35FfE
+					qraWQNQKI+jknl5zguyc/h3838T32GX/CMXk
+					fqLYQ3+OiWjtxSWFRb6VuhlcdUs18F5vodcC
+					MppSKBJHxkVkLLY0PS1mOHGKQorROBaXUb0C
+					9iHu+eMQPjtmGZVV4RrijGw7Ev2NiifdJh2S
+					/h1NprEEndkG9r7amQ== )
+			300	CAA	1 issue "letsencrypt.org"
+			300	RRSIG	CAA 7 4 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					SYm3XVLHxyP2ckop2nW9mmrIcG/4oEQUMvyX
+					v5+xMVVk36CC4xNYtir2+rUmGVKw+cd/MK6Y
+					d18kCFXzrsPTDBH7CyT/2K4vw8NYo/B3DhVr
+					imgygPpKN2SfltSaEz9Iz+Zx/9nP20XIZ8Z6
+					TTA3UNJPer1MsofHOMgzr9rGCohOsgoWQ9KU
+					MWmj7Q+X2AbI3xhgTruMIXj52FYgeL2a6qD2
+					A9AsFSu7XA7bbuHXPUEX/GI7VksSi2VOK2wA
+					nRZyLS4utlOLhuh0TaSEH0SOCwTCjJqbGYyS
+					v4ox6g+qQCPqjzLY7fAfRxEORsErMfgIxmqV
+					+pI+rAIydepKiL2x8g== )
+ns1.uclllabs.be.	300	IN A	193.191.176.254
+ns2.uclllabs.be.	300	IN A	193.191.177.4
+mx.joeri-sprengers.sb.uclllabs.be. 300 IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					JUZd0iyMShTl5r7aCdJ9S5cb+6P/ycl2O8eC
+					Mh68gPQN1FW7E4kJrav+oE6odGQ9rVOlueRF
+					09kh1D7OfRkeY7O95NpFBrdtH9fAh25cWxEB
+					9WColhu6PVQh+hsNXlbIu2+OC6XCaJ0xaIN9
+					9jaJRC0/V396EZ134g988CUKWtWe24yI5+W6
+					g2ltZnxQdJoXZMMB0hcROT71xW8GBRF7R4+E
+					UlRJlYnXGltw2YdZzuMqaMqhrVJ3ziPlfuyw
+					N/7HxHAm6KIjMCzL3bjzrAIrgt7vdUSB02pj
+					tARHA7pCRHKAKv0zfiahldZYyDWulQEushfA
+					uli96Ke2HYs5ks+/xA== )
+			300	AAAA	2001:6a8:2880:a077::9e
+			300	RRSIG	AAAA 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					ZBRB1+0XvnzBD/h+9iSjXgNiyW1YbG3OEOHX
+					/x+/qigZ5F4RUHBpm38j98u5DLZPrqw4dOXI
+					1eQh8XtKUY2gC1UfmCWu8Gf39L6TOeSgpkb7
+					YEgP6YaOMbQVFbtsh5fsnzv9TS/T/98FBJdD
+					ThiSiiuVrp7ZU43OnmbvMqCWr2dRMvqRL92a
+					ObqMEBUar267LRwuitYxcQTfwHRpGKphq0J8
+					E9+CXBiLjgi/dnLj0lOfC/xkcbUXGYMgSBWP
+					4NtclLCu1k7dAm2QCIDCCwwXyiWiuC3iHn3h
+					antG2pdUBlW/4EXMjXDuWS0zjUZQOxwB3m/E
+					sBfbAGeBZPdtaW6UUQ== )
+elasticsearch.joeri-sprengers.sb.uclllabs.be. 300 IN CNAME joeri-sprengers.sb.uclllabs.be.
+			300	RRSIG	CNAME 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					PaDwckslf8F/fpt5et1b6jAOOkI1ELYK9VtT
+					3eRP9HQAEujWtViv5XOI7ZPaBd8UDG71e6dK
+					LUc/dv7N6wRL+xIpn2gqb5oQ9UqX+wTUZo6W
+					MRZe+qKhTvxv/6lY4iwxBs8TY9O+riTMatYA
+					aTODjHJNS+EnrvurzeeVQaXI6fBn+W8+s46M
+					0G8K68h9sLosw6DE3axaRoFxPhathuf8GBAo
+					MNZLE6xmORR8NHNz74DUrzErlHk9z93GtKyg
+					hgew5MUlgtpmYW9tJkgYG/FLcOQmzaaaO2CC
+					9j+gPoVUZ+VO/cpnx2Ue09tN49XUiPB23z4D
+					njOFvKp1msOor2Q9Fg== )
+secure.joeri-sprengers.sb.uclllabs.be. 300 IN A	193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					dJsbXCAnMa8Vjlf6K7Bm921MK5qPfITP1Tee
+					ku9SMt7CJzQ7eWXtYzX+nr8spZvU+X5QmHEr
+					ZPxUaAaTj2STiXyH9U9WD9GlLCshidAkvVeB
+					eY9JvuKPP9XaN5gBZ5bC8g8zm20+VMsSKaPS
+					Hsyl/pEzDtzbNJmSyi92OgCK5/jbTloNg5P3
+					hn9K0j9Ms1fVpbYJ2h0V8eLWfU1QSDdVE/rF
+					K6lT5AsMbqAzVIjVHSVIAVBWf3LKxpF/r3dx
+					f3+HWU22u16rq4PIKfrza+U3DEcFQB4PRy3W
+					jJSNGsoRBq00i28pckG8aUdYuAk7jxBegui2
+					+xgyG0vCXT0OgNJZLA== )
+subzoneahp3eb.joeri-sprengers.sb.uclllabs.be. 300 IN NS	ns.joeri-sprengers.sb.uclllabs.be.
+ns.joeri-sprengers.sb.uclllabs.be. 300 IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					SaTbFV9VajHgtqUUTi21pJuvoe39DRD7j9hJ
+					yeGtthvVCk3ZQYAegqzlyNPhJ1i/lg4QvnnZ
+					DYZ2MeovOvXB6jA0BoEiUlzdLj+b58i2FMbZ
+					nTGZ21dgaoy4aKqfmVSp17a1clKOJ3MDfSRA
+					lprLN0d6h5gU7qGjkHwdofO5rrlSIVWH+pPq
+					avT101TsNdBay/JCdBFOxNCSjQTL2Wel5iHi
+					48os7Wmgt+V9p8Evc1gIbqokrOd7biR3crbQ
+					oUDtgzlDvxvqSUib0bxw/TnW+NdbTVTSCo2a
+					9IpvSpe//gqL8sE+ZH/d/LlaOoNlCscGOef9
+					R2JbFdTfdEa6lRjEdw== )
+			300	AAAA	2001:6a8:2880:a077::9e
+			300	RRSIG	AAAA 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					X2aFKEHdWTFBbuBM0mRGxp5HNWr36Z3f21bl
+					vcEx2pPyGI8RRCr16pxwxIx6Z+0I/vkzmsgR
+					kITqx1fMoXPBfu6Pt3URHcoHFDrSgXZsIL92
+					BLUZXAdQSBtCrQtSvD2BWdJzpPeX6Abq087G
+					BFwRe759nT8J1cxS38t+3cpFw88DcC97OQq7
+					eQNZR5MsxtLxTRSNbMxvXJmGu6krCyQrYTEt
+					rBtM4ULWvmNJIZLbGU6qHPSdEblZsriNN1vn
+					IbOM0DgZ/rUi/jKsGIyVLp7Alx6a2eF6TQ85
+					imqqor3uWnHnxSLT35aDi4XyoghG0Jt/vkHh
+					rav2Sy6nddd+ObDG7w== )
+test.joeri-sprengers.sb.uclllabs.be. 300 IN A 193.191.177.254
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					ep9DQSTVI64DMp+L1cl/SXRueD7jVBGjr5dO
+					8PfY65bPbvz15Z2b3rWIqAYESfW8NM9+sr3d
+					BobdOu60XhT5l7umHkmVpsR8VePv5t8RGvXw
+					p+w04Czp8g3Zc6IXt+JofUOcn+VrZ1mvBA40
+					vr+i9PCbCkqlK3yGlpjpgaeokk30f8q1LtE3
+					TpRuEhDzWU5Mrau4gkP5a+WKZs+2PA0xpCGs
+					VhGKHgQsr7MdWupZ+Ul71xeGDCgOK9jPyy09
+					e0TR/HPxpjfZ2iAz8hZ57oa1Nj8xgHa8tMPa
+					C02Rg16RG2aMuFduRxOizM+mC2TqyeiU5P+8
+					zR1Dvk2gJV5yZBFyxw== )
+supersecure.joeri-sprengers.sb.uclllabs.be. 300	IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					cNBjqv53dEabQqHVnFhcBfbvS3bej8g9R64P
+					RrdVeZlRJoJEqThJFBdRkqdO51v5r3K/2eev
+					T854rygJUpKTB2uIc3nl0bEqTqe+Tnp7GSGy
+					ukrpWcWR+sGqkjtlVCzfYsm2DkBciFfR8ZvG
+					+wAEpCCMn3hvNJOxv3TWzo3S3NtK/9v/7mQm
+					Hcen87Kx5Bly5wkwPKtjaMIh6DL/QwUaQgZw
+					2mMJo0Iz0Qa+zBL4IHVd382FjXu1sBjDXGbd
+					lTCZVZ3A5XMpUjomzjQLJOxWOzBtrzr9pVGf
+					LGSzVXqxhlUEs4Hy/bUe4HDRKJCtg4V9nF5J
+					3dlMHXfpes9VzrzgtQ== )
+www.joeri-sprengers.sb.uclllabs.be. 300	IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					YAPb4i4yjA8IJPTPvWepRH2zmnZJGNspoI6m
+					dlYMjPS+gDtQUL5xkmyQFSFYgDy9kUNhMxrZ
+					xduiFKFRrUChJU+cdt687PUUBE1+KfTjojtj
+					3LWY1VcXrszAb4828nbWCytCBS7qOZpni6XT
+					OT2rrjIrhAFCBpIRyi94OLramF7SBgIuNV16
+					YDZBjBtkdTD+AUKGX+iZPSV9C0zTNuHEGm5Z
+					7DK43dlzarI6/UEKo/I3gijxETHw31yCdInu
+					+20K5PFh2Y40QWlwEfoNL8/ELuXlq9B2cfGf
+					NHgw0tJMOIAHEcx+RyEfuGgChk+dokEDQjyn
+					EY2vPaPJOf4IOmi/+Q== )
+			300	AAAA	2001:6a8:2880:a077::9e
+			300	RRSIG	AAAA 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					n+lldYWoo/HM/OBsqeGh+MGRQrrjyRDDIGcE
+					ynOUhAXG90Ks1/2F3MXcS0jIZhQQ6W8WUnmF
+					u2i9nflVyKcw7diAi/2lzIY1W/2KIcu7L5Fw
+					texpy1TtEqluJuwuB52SPV7JfmXpGYlJQ8tM
+					R2k3r5eSyvKNWxhcIs9v2afgMiZ0dOephTQz
+					ujRG7POhucpPoyMtY7waiI7Jzk5/g5KSA+jG
+					meXTS8QxiICsR8jFFkb2oudI+6OQAVESMx0D
+					JxXV8/NRmysBEOGBUPXZ/RSdBJhfUc9ZsOw4
+					odd6dHEjAOL+pS1zgF0bCu3VNbVZ8Njk2IFb
+					LDj5/QcMnHeC3ajWzA== )
+www1.joeri-sprengers.sb.uclllabs.be. 300 IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					Ku1C6gcfI2e+KHY5ATuApPQobFR+Tk91Chj2
+					0CoGOKhBrEMnWP5usWKCsfccKMEid2ohybaJ
+					qG2wjcyQYJYJ3VUO71T6F7kR91xAPW9+2U8l
+					w0oh0MJl0jA5Ef0YfOs7PCAh3/660yY+m2pW
+					Z/Ce9yoIZA1fvEQRLRion6C/wTsfKoIGZet1
+					PjSbQI/oCb4rAk5d2JadPLJTwG671JMNCm2J
+					/TnabBH7mexbUIVsdjPbRg2UEf7G0fFmmfm2
+					lJCUKI4Qk6O3lG5CTVsDiQd9BRSSlDCuzpsV
+					Vypb/aeIlQD30dSyp/ANoBnTXjMyBMpK2O1a
+					SzvqtkjNeA/d0KhndQ== )
+			300	AAAA	2001:6a8:2880:a077::9e
+			300	RRSIG	AAAA 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					pp+cnQ9JxohqlPCX0B/8aEIklFUjE3VGBs/F
+					yntF7EOHRQrra6H2/sQcEOwVIEvfh2AjNdfp
+					ROjnFTpSbyfCQzDyKuf5vdo7EHHW+EUtIv1u
+					JnmaDQGH9e4eHTlIV5qQe1f2RrpN964eWBc3
+					dP/LhMuPtL2S7F0wRkcyohIqWZNxiLXU64Oq
+					ZjdSkP9vmqsYsEacOT/bdUKXc7L9V8C8zmy3
+					RRUorMtiS+JaEXgQTdES3ISpwPAV6YGoVgEu
+					pCboVGy4wtYXwrsGebnRW0pY63Fod/WZC2fT
+					0E0JmGVSoQTTpKWjgPnhDAgzXGDFUDkMO4pt
+					D0w6rgCuGVMK5Pn2WA== )
+www2.joeri-sprengers.sb.uclllabs.be. 300 IN A 193.191.177.158
+			300	RRSIG	A 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					gHhWBt8w8aO+UQdZAReSGKnoMx4SLSfr21Ed
+					40f5UKBXNgKtG293Rlq2GTLKsO31Dw1xbxsu
+					Q2xaDCydrGGj2gliL35xHkMdmOUMBYZftvgi
+					5jCWNQjxxbLUbXD4Erz2VLHRSCNqnFyegqUr
+					v/HcFCzj7x4zGyPNUf/5lwanIp0QobqaBNDJ
+					0ZFJhVGCLQCoQ//imBDOjxp46R+6Kc+5WXzf
+					SfSexEQW3SRhqdd5cmUFi1YvEgslM9OUjbTl
+					laSF1rm1k+Jcc9jiN+WwAMw5CduGXQ7C6W5d
+					eC1RwWGqElRzOMCmiSdmzJBb96eyWWsZcwif
+					APoregv+wXTm3eP/ag== )
+0DHIF9N284OGE8H5A10GIF0U1TOAC5QJ.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					378DRK7PBIDKTG7FEO36UH0REEHRNBCF
+					A AAAA RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					QSWIfRSgk0FHrbcp3uT/woHAnBdLH4IeKT3h
+					k9+kbWg8RvCQzupMke1OQ7tKQHERzEj3G7q1
+					JceMr+OMVO0S2r43nW/W+pGX2/V1SQ1P+1vD
+					mIir+xcdeFkeMau4ln/HMYRwtHgZLNmaZHhc
+					bC7DXDetZSEEEGvpdWfUPYsmk31jNSFSi72m
+					Fy0yzb1rjPa6uaw4HpOsmE/o7gu5BxGl9/Zy
+					hQLao3Dvmjq9Xf9ajUdXUvs+gSADU+OZCs7q
+					Np3kEZtCrzPBOTleqff9QDDlrwTl2mrh3I0z
+					x8AALxn/TRtRIlNglwHzgoKEDHgF1H8Eh8M5
+					hBmD9Lo/HXsObUl8Tw== )
+378DRK7PBIDKTG7FEO36UH0REEHRNBCF.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					37UV7VA955266AR8HO8EMA8APCPIDH8I
+					A RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					TGDd566bsGPZx0uWGGeXwU3wjqSdGFw1X90K
+					wAU1ND9XvwHTZAjdL1Lj7ckBsAVUTizeqNIX
+					0Y3p9EjOnYLaEPjBwd994+RGFv+xAxYuasJr
+					ha57cv5mvu8t3xHk9lrs6FSQmN6BmIFi3mi6
+					B0cnnG0mxYIH0NTsBQm7UhvPgx3fxwTK7fgV
+					vwfnyZJS1iT46u7LIrUppIfoHRZR9Bnqg/tD
+					IJujdbQIzy2QmkCHjOw9RWmcxfVDo3b2YU2C
+					93qMIALsIOFsFKTZsuQOg3zYtXg38feke+9c
+					4ugTP6C/btQ8xXo4FaQ65EI98YqoIhJAqzVC
+					CS6r5wpFExxDYCk4mQ== )
+37UV7VA955266AR8HO8EMA8APCPIDH8I.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					548IOM54IJMN2U7IMQA7HO7SD7MSM3J4
+					A RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					KejKS9TUl5w/K59W+KLsbuMvgZ9MXHyQ0uDP
+					bfVxR/qH2IPMD9iTZSTVFBmbsXK5zN832rOF
+					XupOv9ecX6nlVTfH+VtHR1H0/OiZW6wDVk8v
+					w/tRRTBqSYuIxcD2lK0JK1q0U3se9EiAL9Vd
+					r1v2fAKJ98IO1f97F4o8rxhUotXmt6kNqMFG
+					VCNHXTUflIqW8w+l5vU6EizlGVCHec9l+h2S
+					f7p1/ijE+1d+CJvcbBqo5M/dcZOvlFMZhhE2
+					69VYjpnCBpRGEFlBY8G9BGOu6bJenJPdp1Aq
+					4VOUl9ENsgyLkVgi0DLgMKjukVkHZDlt9xWJ
+					dtKU9L8ftyPvNa7M6A== )
+548IOM54IJMN2U7IMQA7HO7SD7MSM3J4.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					75P8G0H6AKSQPCMOAUH6340E4D3189QK
+					A RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					h3b+iz3Sa96cjw1ir3igDF+r/9GpBOdKnypd
+					BpkdrTFJ7NHNfmqaFezmaCyeXUvZKp7sMx90
+					vkhygrt7BK3AyDrXjg8WSGZmkVujHHFmu5Go
+					XF/jlTR0nbPBPmA5sQzPNVFnLrcHUsUm6cDp
+					d9mZXjc9WLOMM/Jo6olFLdaHAasrKWvqG/co
+					AoGBesw4tFjVxip3z6C19R/MXIZXWbhUc6vP
+					5rzQIkY7dXdpf2dMZu0bZLX+7ufB+2zyJmah
+					Zaj7t25q8KDSX2PyucBCqgdVb6CH/Eb42FSV
+					XM8rWeJQR3nlI/MyCmgoYGs8vFGj09awBjz3
+					gkwJekPF7/4mr5MYAA== )
+75P8G0H6AKSQPCMOAUH6340E4D3189QK.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					AV7RFC6IKLMTV89AJ0JEUD0KC2VJQIC1
+					A AAAA RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					pGaHxiwk7PzzRMN5r6I45jDrqMfw5twhSgDr
+					DRrXTXFn5qVawlOPbOlRmqld0aNbIMUMVqRX
+					s0lr0dV3dH5YN+N/g/Gl9OuMnYQmCvv6kmm3
+					K5R/K/kHDZ+KiEYXzaTSMEBETJkZGxwOsMRG
+					csM8HxWqimhtYOARL4AT/+yHacCoUu2zh+gC
+					hs9NNt9ShzhtSJ8PSvHeiyqN/jyCThCIRHtk
+					eqt4kICFWi0eq2kGv2jBZfq1Jsol1p37v0dm
+					X9MXEfpfPErTCUbYP/ezcVfXlU2O1Frak3Aj
+					Zr+eonHEg6yAuZ+2d23hq1yAgfC4IvmCS6jE
+					P0farDNbdGNIeldz/A== )
+AV7RFC6IKLMTV89AJ0JEUD0KC2VJQIC1.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					H3CVCNS5CGANL9JU8A72I2BGDIE5Q1TF
+					A NS SOA MX AAAA RRSIG DNSKEY NSEC3PARAM
+					CAA )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					SB1Rb+JIHsW85HpSLqhyzi9Q1A3VmFo7MIHg
+					VWfqUpiy1S96TP8PF7+9eKd8PrNKcNave3tu
+					DVxHZamAkW+PKsxMGv0dzxaB5LXMAOcv73Kk
+					kGeQQ73sp6cZoAds17no7RgKqmkmOIrjkvUO
+					iRIuj8PepUvGA3aQw3QjKEn404tzBtYhS6c1
+					fFNVYpDRav4YBK2oy1zezOsxcRSq1/2wRMuh
+					/Qs+8O6l0Q132h9NBNumFYf5ahyHIVZyw3lK
+					rI5MxijsxbZYupMlURwrG7PZ61XCFOGaIWzo
+					7WqLQRp49e2RRSc/6bPIWmgbxtK38DbP4kob
+					ATZp7Kr+AhnVzZAwFQ== )
+H3CVCNS5CGANL9JU8A72I2BGDIE5Q1TF.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					IVGP5BG6N4BCBN2542KQM5IULJTLER4V
+					A AAAA RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					LDyyv7MxbhDaC1djP7VeGo6uIdCmFpNK2gue
+					Vk0836xsFCBELMfNLPMgeXBZETR6GapW8cRs
+					6JOIQ0u7ejBdjiDePPT1pRoqLXmeMV0UlOJU
+					5M2tBcuSOwlRTnhqvl9xtjKA3F/0WFk7PlDY
+					rxB1IZnravXIvZohx6DqTdbBLpqAXZEvWqTX
+					WWYl1sw/JoZJ3chu5QqS3nVlBTVN0jXEdjqQ
+					JTzJf3W0vGl/T9houleMlaJfNoxOWRomSNeb
+					yicJyGRvgKFOVim2iDp6tEWmSsezx1VzGyAd
+					ZSFiddLBP8mxkkMWopBjZEbPCCZ6+T3mFVu0
+					VNcZr1pHko5aQxTorA== )
+IVGP5BG6N4BCBN2542KQM5IULJTLER4V.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					JRMBJE1IUMIMUJC7CSF6PFA2AFF1463L
+					A RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					deJNtAKx+0Cckmcpbuaj+yDzU/6MN2u/iDU6
+					wYE8sEMkY68tnSqjg5Tp7JumB3JrwQxxJ9e3
+					673TKsoGN9KhWHeIM7hERkQHuIiYpC4F0XRk
+					aAvcaRgugBCJLpsH8lhQ1g1XxK0zwWJk98jX
+					JhF7BdnW7kQXBztwZ5YMb7eRMJzuD+zas2rx
+					6S/kIDmGKrSckmqLq+c2RAsiWv9vaPwxURgH
+					odoJFr5j+rV5/hnj/j+squPQE9bf2cHGa3U1
+					gAj73URW8jJH62sND+IcMuuZ2R0ILPP/rEbx
+					v/u8c+7IAb13IFJUzAt3XDR5GEBqnV8+ngrR
+					J/xirb96AyAOk49I9g== )
+JRMBJE1IUMIMUJC7CSF6PFA2AFF1463L.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					LU6R7O0PT45UAVE7FTEAFCCDFUI6R353
+					A AAAA RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					f8PLtdlLiQ/+0jIsR/L1y5sGQlENuKimFyQq
+					LrivzxkjD7aTsSb2eZDVF7X8z7fFTTSOEEIo
+					2yFe6xgvVwC4UhGiI1TJBOx02HLwxRbmHxKV
+					tl5oKQp5IH6/zGkLXKq89Ie55f0UrzKJwYHF
+					0h9igiHGUqo4DTdsTOK9eWsf+LcsAMKM7Ebi
+					ILRehzzxawXJjGfd8sxOUPkliNGu3z1EUblU
+					z6hRjzCDAL/fGCZvMKPTJDpkULuzMukkxsVc
+					5onpBpN2XSR8jswORU9wQiZbpEtbVDT6H3I0
+					wtWDs0cyID7pdpOP2BUnyHJ0pVNAoWvHbHkv
+					cN6SlMJmP3r2LCuGTA== )
+LU6R7O0PT45UAVE7FTEAFCCDFUI6R353.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 DC1802AC511131B6 (
+					0DHIF9N284OGE8H5A10GIF0U1TOAC5QJ
+					CNAME RRSIG )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103121616 20201204121616 25988 joeri-sprengers.sb.uclllabs.be.
+					VL/yG0p/2QzzYgchQ5FwSaFmvjCNv6b6L9lI
+					KqhyrbafpHmwO2QfSvnYicGD3sIyW/MZWfF1
+					f4kbwGoJDjw4gTwXkJfhSJPG4YmAFLLrYKFq
+					fHRp7ESukumaHBK398C37nDe917G4VxVVwsz
+					OgeOtY7rbDGDovOFhnVyecGYRnGWPnwrYZFc
+					hE1bo5gO0O3L901MYWcd5jss7FMGXHNf4+vj
+					Y8M1FqeGazexRxjq20eO+O1fOOIJDdbA6gT0
+					mxaujrqVIlW+myP2V42udG+qcZs56t2k1Qsn
+					uvnmiuKAtXQLCHcz3CHopBLxMW5aG4yl0VxZ
+					ENSVKW8c2jGvF2RLJA== )

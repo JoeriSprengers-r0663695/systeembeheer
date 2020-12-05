@@ -1,0 +1,10 @@
+deb http://archive.ubuntu.com/ubuntu focal main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu focal-updates main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu focal-security main restricted universe multiverse
+
+deb https://artifacts.elastic.co/packages/7.x/apt stable main
+# deb-src https://artifacts.elastic.co/packages/7.x/apt stable main
+deb http://download.virtualbox.org/virtualbox/debian bionic contrib
+# deb-src http://download.virtualbox.org/virtualbox/debian bionic contrib

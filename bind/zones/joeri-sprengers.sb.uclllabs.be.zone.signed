@@ -1,0 +1,116 @@
+; File written on Fri Dec  4 14:00:24 2020
+; dnssec_signzone version 9.16.1-Ubuntu
+joeri-sprengers.sb.uclllabs.be.	300 IN SOA ns.joeri-sprengers.sb.uclllabs.be. root.ns.joeri-sprengers.sb.uclllabs.be. (
+					2020112604 ; serial
+					300        ; refresh (5 minutes)
+					300        ; retry (5 minutes)
+					300        ; expire (5 minutes)
+					300        ; minimum (5 minutes)
+					)
+			300	RRSIG	SOA 7 4 300 (
+					20210103120024 20201204120024 25988 joeri-sprengers.sb.uclllabs.be.
+					hMw+5bwmBTqSDYJR0JJDUJJM5mxnp7WTJRTL
+					JGlxuTmdEmk3nei9PD2TX0/hopJfujFaB9ju
+					8znwrxwzODwMm0uTY2Z+A6YYyGdHJCQltxWu
+					GG+rYz1Zpw8+tOWFPaRBBbkw7/z4jj3I338H
+					aA/ukZuuYKw6bCRKnf4AF0nFU6cuUn3uCdPa
+					9m9NXAh4ODphu3gOju8slR4VZaqpJRmWef51
+					vImtxWIYUmWecb+sHvUPUWd+x0NXkSSDrege
+					NRtqzyxGX9ylS9sadAzujT+ng4pp4UxleMiH
+					pbUq1LT49NxJjN7900/ZPuNsRgCLFpq08oaQ
+					76MGVL53jMnZvvDKxQ== )
+			300	DNSKEY	256 3 7 (
+					AwEAAa7MRVBzE+iAMtPMzRN/pNZvL27CtSxK
+					+f099Ak/3jibS+GKyuEVQFtn7XxRqouCKXII
+					oO1pQOucetvcBppLWJM0rK0sbEmoMhyuFsHP
+					G4WP1b2oGrP5vIc+4bg4PPNWNOW3npLVq7E+
+					z8XAz8dJZW4mCelMufExONKqUEVv+rwrUm8f
+					Cal2AGchAw+FVVq3P2Jln4nvDxZiakmURXDg
+					bqmMJCa2fKWsMZf45Vvje+OmL/+QiBuQ11QU
+					AlDU35umc6vtY7nmW2mQZsMFUWAYnY0y6bYH
+					NI82rTHakF46jhMMifv1WqasAXVzYE/LGZKm
+					4KE9zSNz/0BneYaxkzZX8iM=
+					) ; ZSK; alg = NSEC3RSASHA1 ; key id = 25988
+			300	DNSKEY	257 3 7 (
+					AwEAAb+oDnBYlSotCOBPgYIRoTh3uEr0/E2G
+					NlSrZFosBa5ehZjXhx/vX+D9OR8nL/2K0SOk
+					7cuXKDQh4qjXsg/UvYldZBS/jv3Dlp5pFqm8
+					x1rgTXsklMoWHN4h5rS/SyKgQa1SAUeAWiG8
+					xpkIKGq1l2DHo9RFSX1n80CEvUORwQdViSBR
+					LtS38en3caQLijcDaKudigM9/gwZh5AOa3dL
+					8CuRUcgEHFGepovj6W1Gv6Ih352ft+GY1KYQ
+					thdgRUH4Ys8L56SQJ8X3j6KUB8WxC38eDejy
+					3cqW6jAJtU6SpWj2meXaY4egdRV+yTCQyZPf
+					t2zBIsPucg3rUS1ksFZ60RfgwBYlM2tU5nFe
+					sUe/O9flusOoaZS5CDg6ys7Gr4J3CJ7d9jjn
+					gM4RFEhyaYYt4kpH3umA7mM5uvteZR7CZsA2
+					0d/vih2xsmIC2BizUUJB44wxt1QiWP6VAC/h
+					3Y22u5ud0nMoePfiNfeNDeH65CFpBhj4/TN0
+					GFQzKf2NoVeJxAM3gAoX+U4B/12aFCDPWn+v
+					jndZBuN0CJm7hx5EJmo7XHLP17o3Ak/70Kge
+					c0GkAgd/Dr7ceqJrfKSFAgUgCkC/egOP+OMZ
+					lBNzHEOLAJSnEbgnbIYYyOpN9QzHm5OX0wZX
+					29pcLvOoNczRuwgb/gqIO5ldpGBn/oPRoOk4
+					netR
+					) ; KSK; alg = NSEC3RSASHA1 ; key id = 60501
+			300	RRSIG	DNSKEY 7 4 300 (
+					20210103120024 20201204120024 25988 joeri-sprengers.sb.uclllabs.be.
+					aTqI3KTv9bpkSmiKuS8a0+zXZV4h2T419nzj
+					Fs4B3d37smU2a7Y1K3MbyXw3dn8Cu2H7Ev7q
+					jdIJ5+fjrPiMIHrPIrHZ11qu/cTmpFzJteTE
+					3bLE9Da1S5UsrASYqcOMQpPxiwG7pzjj9Dfq
+					FYUZW49lQUTInqfztRIQk5j2DFlu78hwpL3m
+					Ga8ITTHcCpAiKFSGq9Yh5sgU2+T7IQcW9uyD
+					xd5H1ZVdU0EIOCXXB3l0FaRdRXW1H6TQBT8k
+					vgKpL+pfmDIf5usSMANY3FL9eybPEUYirO2y
+					ClK4rrYeCYNP8Usk02BWpILbtctwoZJ90jfX
+					aN7dcowvhpkOpVoUwA== )
+			300	RRSIG	DNSKEY 7 4 300 (
+					20210103120024 20201204120024 60501 joeri-sprengers.sb.uclllabs.be.
+					LHWNr4rHc6o6FNeklQceA+TmVA/IZj4jZRA2
+					Us+mpdIT5caSfA3bua8nic4mmI4emiVyFs2N
+					r65CxgPhEUki1cSJDR8F78pHuirUCMlfU/z4
+					DEobbF1B51X8uctpaYUhM+REKVaDu8AbAFo8
+					QPWxyjkA2D9AV/U/3DpkXsVzt06eID1WTMrv
+					xKAgcpXN/nh3Azdcxa+M78fIX59F3eJSi3Nn
+					a41jfX9q+cSue/2Q9xPwc+m/wa77e/82clSA
+					RIuIP5HcOuzGKd38LEf8gGMcjiF/N9ZgytEl
+					YyJeKOl/3Zno1IzPsEpOU2rlHMXsQir3UJ5Q
+					Mhp/5c5+1YiPaMDiFJrLH1REBB/I6ixAi/r5
+					JNASPFf+pWY7IHTYhLzYU52FeAX4V21cU9vS
+					7Bi7L4M5gkZKZxPIP5Fy5kz7ZFT7PyiXdHeU
+					kd2mxPwmrwpFsTejYRM28sKJEHnhehPXc8J9
+					YKN4NItvW43/aoXx3NI2zC3TShD3iIzSbxlx
+					eYPUheRR1IpeaJyU5PErRvB2e5dxvowXi4l9
+					fpEHlGjnya+yrFY9ZhXcp7CqsEZ/xlKTR0Ni
+					FF4KdHHrc5q0jJ6K/qal+qa0qfseQSSHmgSW
+					514ypZzzeXeZHJ+wxdQG/W2uoPI3cgm17SWL
+					Sm+zckf2qzzdhufvXj3/eJFvEbAbo7Slbi4= )
+			0	NSEC3PARAM 1 0 10 FF8E288C341A5090
+			0	RRSIG	NSEC3PARAM 7 4 0 (
+					20210103120024 20201204120024 25988 joeri-sprengers.sb.uclllabs.be.
+					YgfCpx8NmUSwLsizLaCcEacqjKljyvhJonFZ
+					lPhebO4+hBrje0EiyBdPKNTOLk6aIF+AgAlx
+					64+qm0rbF3lhZ5LnDnZgzaVQAkXcFP3KzZ/Y
+					NAG5qgzPB3F5TLR+pfMUGPkBO3bf+DnQlecZ
+					alKWVZ3C/qiFv4ADC1cQCXssVvIPqLiDNmSJ
+					xyjcg9gFQTykwuRNdXfHnrM0Ip064DXSLY5d
+					jC3CxNh1GXScsGL3mGiKxVivDhG3QObnzQlh
+					Y7/44OuSAeVEML4ZyF//1KiRd0jLdNVNhN+S
+					odvO2w1mRomsQaVvQuSIQv8iv2W0I0z1CLeW
+					+t92cZ8fdhln74GVsQ== )
+UVJ48TQ5RU568AHQ5QLTK1VP5MEGFI93.joeri-sprengers.sb.uclllabs.be. 300 IN	NSEC3 1 1 10 FF8E288C341A5090 (
+					UVJ48TQ5RU568AHQ5QLTK1VP5MEGFI93
+					SOA RRSIG DNSKEY NSEC3PARAM )
+			300	RRSIG	NSEC3 7 5 300 (
+					20210103120024 20201204120024 25988 joeri-sprengers.sb.uclllabs.be.
+					N/yrQP8k/QtYmaNaU8oYgdowcz6OQPCIt9HY
+					ErFQIoZfBNIzRubQkQXXzKAPFehBuUHMCWZs
+					hHfM1mN46/EEAwqBm+IhAbSRti6E452Q0hz+
+					EBFYgdvyPBMUrzYERzeV33ciHIppupPaspes
+					lztjAF/LxYmtd7iMujv/zrr/jlhcMlEvuKRt
+					DkAZUqw6Pa+fnZbz106LnAcly/w5omB+YT5W
+					1KFRps0ZYzNQ9yVFr0UhMu91plAST691KQ5f
+					8IQvbRVI0E94hOSt35d1O0jK87DarxP4UKkA
+					WC9jlw0Q4dR7VUNQ4myte7lzKlZFEWT4fj1T
+					8x1wjXF1kr2GEXQipw== )
