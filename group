@@ -78,3 +78,4 @@ n2disk:x:997:ntopng
 cento:x:996:
 nprobe:x:995:
 ntopng:x:994:
+docker:x:993:

@@ -74,7 +74,7 @@ redis:!::
 elasticsearch:!::
 vboxusers:!::
 n2n:!::
-n2disk:!::
+n2disk:!::ntopng
 cento:!::
 nprobe:!::
 ntopng:!::

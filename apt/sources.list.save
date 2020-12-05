@@ -8,3 +8,5 @@ deb https://artifacts.elastic.co/packages/7.x/apt stable main
 # deb-src https://artifacts.elastic.co/packages/7.x/apt stable main
 deb http://download.virtualbox.org/virtualbox/debian bionic contrib
 # deb-src http://download.virtualbox.org/virtualbox/debian bionic contrib
+deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian focal contrib
+# deb-src [arch=amd64] http://download.virtualbox.org/virtualbox/debian focal contrib

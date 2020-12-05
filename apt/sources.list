@@ -10,3 +10,5 @@ deb http://download.virtualbox.org/virtualbox/debian bionic contrib
 # deb-src http://download.virtualbox.org/virtualbox/debian bionic contrib
 deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian focal contrib
 # deb-src [arch=amd64] http://download.virtualbox.org/virtualbox/debian focal contrib
+deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable
+# deb-src [arch=amd64] https://download.docker.com/linux/ubuntu focal stable

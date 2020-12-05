@@ -74,7 +74,7 @@ redis:x:126:
 elasticsearch:x:128:
 vboxusers:x:129:
 n2n:x:998:
-n2disk:x:997:
+n2disk:x:997:ntopng
 cento:x:996:
 nprobe:x:995:
 ntopng:x:994:
