@@ -1,1 +1,1 @@
-/lib/systemd/system/ntopng.service
+/etc/systemd/system/ntopng.service
