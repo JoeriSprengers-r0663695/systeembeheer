@@ -1,0 +1,1547 @@
+-- Logs begin at Wed 2020-10-07 06:30:01 CEST, end at Tue 2020-12-01 17:30:41 CET. --
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Stopped target Paths.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 25 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Stopped target Sockets.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 19 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Stopped target Timers.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 31 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: dbus.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed D-Bus User Message Bus Socket.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 32 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: dirmngr.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed GnuPG network certificate management daemon.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 33 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: gpg-agent-browser.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 29 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: gpg-agent-extra.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 28 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: gpg-agent-ssh.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 18 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: gpg-agent.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed GnuPG cryptographic agent and passphrase cache.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 27 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: pk-debconf-helper.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Closed debconf communication socket.
+-- Subject: A stop job for unit UNIT has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit UNIT has finished.
+-- 
+-- The job identifier is 22 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Reached target Shutdown.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 17.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: systemd-exit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Finished Exit the Session.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 16.
+Dec 01 16:10:30 joeri-sprengers systemd[66944]: Reached target Exit the Session.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 15.
+Dec 01 16:10:30 joeri-sprengers systemd[66945]: pam_unix(systemd-user:session): session closed for user check
+Dec 01 16:10:30 joeri-sprengers systemd[1]: user@1000.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit user@1000.service has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: Stopped User Manager for UID 1000.
+-- Subject: A stop job for unit user@1000.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit user@1000.service has finished.
+-- 
+-- The job identifier is 65966 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: Stopping User Runtime Directory /run/user/1000...
+-- Subject: A stop job for unit user-runtime-dir@1000.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit user-runtime-dir@1000.service has begun execution.
+-- 
+-- The job identifier is 65967.
+Dec 01 16:10:30 joeri-sprengers systemd[66853]: run-user-1000.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: run-user-1000.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit run-user-1000.mount has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: user-runtime-dir@1000.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit user-runtime-dir@1000.service has successfully entered the 'dead' state.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: Stopped User Runtime Directory /run/user/1000.
+-- Subject: A stop job for unit user-runtime-dir@1000.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit user-runtime-dir@1000.service has finished.
+-- 
+-- The job identifier is 65967 and the job result is done.
+Dec 01 16:10:30 joeri-sprengers systemd[1]: Removed slice User Slice of UID 1000.
+-- Subject: A stop job for unit user-1000.slice has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit user-1000.slice has finished.
+-- 
+-- The job identifier is 65969 and the job result is done.
+Dec 01 16:11:24 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mlmtp(67222): Debug: auth-master: conn unix:/var/run/dovecot/auth-userdb: Disconnected: Connection closed (fd=16)[0m
+Dec 01 16:12:36 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#17136 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:13:47 joeri-sprengers postfix/anvil[67218]: statistics: max connection rate 1/60s for (smtp:193.191.177.6) at Dec  1 16:10:23
+Dec 01 16:13:47 joeri-sprengers postfix/anvil[67218]: statistics: max connection count 1 for (smtp:193.191.177.6) at Dec  1 16:10:23
+Dec 01 16:13:47 joeri-sprengers postfix/anvil[67218]: statistics: max cache size 2 at Dec  1 16:10:27
+Dec 01 16:17:09 joeri-sprengers sudo[67249]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt install ansible[0m
+Dec 01 16:17:09 joeri-sprengers sudo[67249]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:17:09 joeri-sprengers sudo[67249]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:17:30 joeri-sprengers dbus-daemon[152]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.1977' (uid=0 pid=67865 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Dec 01 16:17:30 joeri-sprengers systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 65970.
+Dec 01 16:17:30 joeri-sprengers PackageKit[67868]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Dec 01 16:17:30 joeri-sprengers dbus-daemon[152]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Dec 01 16:17:30 joeri-sprengers systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 65970.
+Dec 01 16:17:30 joeri-sprengers sudo[67249]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:17:32 joeri-sprengers systemd[1]: Started Daemon for generating UUIDs.
+-- Subject: A start job for unit uuidd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit uuidd.service has finished successfully.
+-- 
+-- The job identifier is 66018.
+Dec 01 16:17:38 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#13863 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:19:02 joeri-sprengers sudo[67882]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt install virtualbox[0m
+Dec 01 16:19:02 joeri-sprengers sudo[67882]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:19:02 joeri-sprengers sudo[67882]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:19:14 joeri-sprengers incrond[56525]: PATH (/etc/dpkg) FILE (shlibs.default.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[56525]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.default.dpkg-new)
+Dec 01 16:19:14 joeri-sprengers incrond[56525]: PATH (/etc/dpkg) FILE (shlibs.override.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[56525]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.override.dpkg-new)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: PATH (/etc/dpkg) FILE (shlibs.override.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.override.dpkg-new)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: PATH (/etc/dpkg) FILE (shlibs.default.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.default.dpkg-new)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: PATH (/etc/dpkg) FILE (shlibs.override.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[68094]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.override.dpkg-new)
+Dec 01 16:19:14 joeri-sprengers incrond[68112]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:19:14 joeri-sprengers incrond[68113]: PATH (/etc/dpkg) FILE (shlibs.override.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:14 joeri-sprengers incrond[68113]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/dpkg/shlibs.override.dpkg-new)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: PATH (/etc/kernel/postinst.d) FILE (dkms.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/dkms.dpkg-new)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: PATH (/etc/modprobe.d) FILE (dkms.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/modprobe.d/dkms.conf.dpkg-new)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: PATH (/etc/kernel/postinst.d) FILE (dkms.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/dkms.dpkg-new)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: PATH (/etc/modprobe.d) FILE (dkms.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:18 joeri-sprengers incrond[68139]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/modprobe.d/dkms.conf.dpkg-new)
+Dec 01 16:19:18 joeri-sprengers incrond[68248]: PATH (/etc/modprobe.d) FILE (dkms.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:18 joeri-sprengers incrond[68248]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/modprobe.d/dkms.conf.dpkg-new)
+Dec 01 16:19:24 joeri-sprengers incrond[68268]: PATH (/etc/ld.so.conf.d) FILE (fakeroot-x86_64-linux-gnu.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:24 joeri-sprengers incrond[68268]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/ld.so.conf.d/fakeroot-x86_64-linux-gnu.conf.dpkg-new)
+Dec 01 16:19:24 joeri-sprengers incrond[68268]: PATH (/etc/ld.so.conf.d) FILE (fakeroot-x86_64-linux-gnu.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:24 joeri-sprengers incrond[68268]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/ld.so.conf.d/fakeroot-x86_64-linux-gnu.conf.dpkg-new)
+Dec 01 16:19:24 joeri-sprengers incrond[68676]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:19:36 joeri-sprengers incrond[68268]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:36 joeri-sprengers incrond[68268]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 16:19:36 joeri-sprengers incrond[68268]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:36 joeri-sprengers incrond[68268]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 16:19:39 joeri-sprengers incrond[69089]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:39 joeri-sprengers incrond[69089]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 16:19:39 joeri-sprengers incrond[69089]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:19:39 joeri-sprengers incrond[69089]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 16:20:22 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:20:22 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:20:22 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:20:22 joeri-sprengers systemd[1]: Starting Message of the Day...
+-- Subject: A start job for unit motd-news.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit motd-news.service has begun execution.
+-- 
+-- The job identifier is 66066.
+Dec 01 16:20:22 joeri-sprengers systemd[1]: motd-news.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit motd-news.service has successfully entered the 'dead' state.
+Dec 01 16:20:22 joeri-sprengers systemd[1]: Finished Message of the Day.
+-- Subject: A start job for unit motd-news.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit motd-news.service has finished successfully.
+-- 
+-- The job identifier is 66066.
+Dec 01 16:20:23 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:20:23 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:20:23 joeri-sprengers systemd[1]: Starting VirtualBox Web Service...
+-- Subject: A start job for unit vboxweb.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has begun execution.
+-- 
+-- The job identifier is 66113.
+Dec 01 16:20:23 joeri-sprengers systemd[1]: vboxweb.service: Can't open PID file /run/vboxweb.pid (yet?) after start: Operation not permitted
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvboxweb.service: Failed with result 'protocol'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit vboxweb.service has entered the 'failed' state with result 'protocol'.
+Dec 01 16:20:23 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start VirtualBox Web Service.[0m
+-- Subject: A start job for unit vboxweb.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has finished with a failure.
+-- 
+-- The job identifier is 66113 and the job result is failed.
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: PATH (/etc) FILE (group.71820) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group.71820)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: PATH (/etc) FILE (gshadow.71820) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow.71820)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: PATH (/etc) FILE (group-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group-)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69105]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:20:23 joeri-sprengers groupadd[71820]: group added to /etc/group: name=vboxusers, GID=129
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: PATH (/etc) FILE (group+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group+)
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: PATH (/etc) FILE (gshadow-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow-)
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[69104]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:20:23 joeri-sprengers incrond[71822]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:23 joeri-sprengers incrond[71821]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:23 joeri-sprengers incrond[71827]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[71827]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:20:23 joeri-sprengers incrond[71829]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:23 joeri-sprengers incrond[71855]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[71855]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:20:23 joeri-sprengers groupadd[71820]: group added to /etc/gshadow: name=vboxusers
+Dec 01 16:20:23 joeri-sprengers incrond[56041]: PATH (/etc) FILE (gshadow+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[56041]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow+)
+Dec 01 16:20:23 joeri-sprengers groupadd[71820]: new group: name=vboxusers, GID=129
+Dec 01 16:20:23 joeri-sprengers incrond[71856]: PATH (/etc) FILE (.pwd.lock) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:23 joeri-sprengers incrond[71856]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/.pwd.lock)
+Dec 01 16:20:23 joeri-sprengers incrond[71893]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:23 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:20:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:20:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:20:24 joeri-sprengers systemd[1]: Starting LSB: VirtualBox Linux kernel module...
+-- Subject: A start job for unit virtualbox.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has begun execution.
+-- 
+-- The job identifier is 66160.
+Dec 01 16:20:24 joeri-sprengers virtualbox[72060]:  * Loading VirtualBox kernel modules...
+Dec 01 16:20:24 joeri-sprengers virtualbox[72060]:  * No suitable module for running kernel found
+Dec 01 16:20:24 joeri-sprengers virtualbox[72060]:    ...fail!
+Dec 01 16:20:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mvirtualbox.service: Control process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit virtualbox.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 16:20:24 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvirtualbox.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit virtualbox.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 16:20:24 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: VirtualBox Linux kernel module.[0m
+-- Subject: A start job for unit virtualbox.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has finished with a failure.
+-- 
+-- The job identifier is 66160 and the job result is failed.
+Dec 01 16:20:26 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:20:26 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:20:26 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:20:34 joeri-sprengers incrond[71903]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:34 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 16:20:34 joeri-sprengers incrond[77185]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:35 joeri-sprengers incrond[71903]: PATH (/etc) FILE (ld.so.cache~) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:20:35 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/ld.so.cache~)
+Dec 01 16:20:35 joeri-sprengers incrond[77200]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:20:35 joeri-sprengers sudo[67882]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:21:04 joeri-sprengers sudo[77236]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt install ./vagrant_2.2.9_x86_64.deb[0m
+Dec 01 16:21:04 joeri-sprengers sudo[77236]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:21:04 joeri-sprengers sudo[77236]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:21:10 joeri-sprengers sudo[77236]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:22:53 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#12969 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:26:15 joeri-sprengers PackageKit[67868]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon quit[0m
+Dec 01 16:26:15 joeri-sprengers systemd[1]: packagekit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit packagekit.service has successfully entered the 'dead' state.
+Dec 01 16:28:45 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#18909 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:33:46 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#17345 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:35:01 joeri-sprengers CRON[77493]: [0;1;31m[0;1;39m[0;1;31mpam_env(cron:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:35:01 joeri-sprengers CRON[77493]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 01 16:35:01 joeri-sprengers CRON[77494]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 01 16:35:01 joeri-sprengers CRON[77493]: pam_unix(cron:session): session closed for user root
+Dec 01 16:38:49 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.4#17223 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:39:01 joeri-sprengers systemd[1]: Starting Clean php session files...
+-- Subject: A start job for unit phpsessionclean.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit phpsessionclean.service has begun execution.
+-- 
+-- The job identifier is 66208.
+Dec 01 16:39:01 joeri-sprengers systemd[1]: phpsessionclean.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit phpsessionclean.service has successfully entered the 'dead' state.
+Dec 01 16:39:01 joeri-sprengers systemd[1]: Finished Clean php session files.
+-- Subject: A start job for unit phpsessionclean.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit phpsessionclean.service has finished successfully.
+-- 
+-- The job identifier is 66208.
+Dec 01 16:39:01 joeri-sprengers CRON[77616]: [0;1;31m[0;1;39m[0;1;31mpam_env(cron:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:39:01 joeri-sprengers CRON[77616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 01 16:39:01 joeri-sprengers CRON[77617]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Dec 01 16:39:01 joeri-sprengers CRON[77616]: pam_unix(cron:session): session closed for user root
+Dec 01 16:44:15 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.4#14892 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:44:30 joeri-sprengers sudo[77824]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt install virtualbox[0m
+Dec 01 16:44:30 joeri-sprengers sudo[77824]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:44:30 joeri-sprengers sudo[77824]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:44:30 joeri-sprengers sudo[77824]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:45:06 joeri-sprengers sudo[77859]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-get install virtualbox-dkms[0m
+Dec 01 16:45:06 joeri-sprengers sudo[77859]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:45:06 joeri-sprengers sudo[77859]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:45:07 joeri-sprengers sudo[77859]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:45:16 joeri-sprengers sudo[77863]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/dpkg-reconfigure virtualbox-dkms[0m
+Dec 01 16:45:16 joeri-sprengers sudo[77863]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:45:16 joeri-sprengers sudo[77863]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:45:52 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:45:52 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:45:52 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:45:52 joeri-sprengers systemd[1]: Starting LSB: VirtualBox Linux kernel module...
+-- Subject: A start job for unit virtualbox.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has begun execution.
+-- 
+-- The job identifier is 66255.
+Dec 01 16:45:52 joeri-sprengers virtualbox[80996]:  * Loading VirtualBox kernel modules...
+Dec 01 16:45:52 joeri-sprengers virtualbox[80996]:  * No suitable module for running kernel found
+Dec 01 16:45:52 joeri-sprengers virtualbox[80996]:    ...fail!
+Dec 01 16:45:52 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mvirtualbox.service: Control process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit virtualbox.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 16:45:52 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvirtualbox.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit virtualbox.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 16:45:52 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: VirtualBox Linux kernel module.[0m
+-- Subject: A start job for unit virtualbox.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has finished with a failure.
+-- 
+-- The job identifier is 66255 and the job result is failed.
+Dec 01 16:45:52 joeri-sprengers sudo[77863]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:46:58 joeri-sprengers sudo[81011]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-key add -[0m
+Dec 01 16:46:58 joeri-sprengers sudo[81011]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:46:58 joeri-sprengers sudo[81011]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt) FILE (.#lk0x000055864d0018b0.joeri-sprengers.81087) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x000055864d0018b0.joeri-sprengers.81087)
+Dec 01 16:46:58 joeri-sprengers incrond[81090]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x000055557a1698d0.joeri-sprengers.81112) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x000055557a1698d0.joeri-sprengers.81112)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x0000555ef44f78d0.joeri-sprengers.81128) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x0000555ef44f78d0.joeri-sprengers.81128)
+Dec 01 16:46:58 joeri-sprengers incrond[81115]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x0000561aec3ab8d0.joeri-sprengers.81146) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x0000561aec3ab8d0.joeri-sprengers.81146)
+Dec 01 16:46:58 joeri-sprengers incrond[81133]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:46:58 joeri-sprengers incrond[81151]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt) FILE (.#lk0x000055bf28f11190.joeri-sprengers.81266) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x000055bf28f11190.joeri-sprengers.81266)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: PATH (/etc/apt) FILE (trusted.gpg.tmp) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:46:58 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.tmp)
+Dec 01 16:46:58 joeri-sprengers sudo[81011]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:46:58 joeri-sprengers incrond[81270]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:46:58 joeri-sprengers incrond[81269]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:05 joeri-sprengers sudo[81296]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/bin/sh -c echo "deb http://download.virtualbox.org/virtualbox/debian focal non-free contrib" >> /etc/apt/sources.list.d/virtualbox.org.list[0m
+Dec 01 16:47:05 joeri-sprengers sudo[81296]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:47:05 joeri-sprengers sudo[81296]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:47:05 joeri-sprengers incrond[71903]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:05 joeri-sprengers incrond[71903]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:47:05 joeri-sprengers sudo[81296]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:47:42 joeri-sprengers sudo[81334]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-get remove --purge virtualbox[0m
+Dec 01 16:47:42 joeri-sprengers sudo[81334]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:47:42 joeri-sprengers sudo[81334]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:47:49 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:49 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:49 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:50 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:50 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:50 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:50 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:50 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:50 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:53 joeri-sprengers incrond[81298]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:53 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 16:47:53 joeri-sprengers incrond[81571]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:54 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (group.81674) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group.81674)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (gshadow.81674) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow.81674)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (group-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group-)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:47:55 joeri-sprengers groupdel[81674]: group 'vboxusers' removed from /etc/group
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (group+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group+)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (gshadow-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow-)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:47:55 joeri-sprengers groupdel[81674]: group 'vboxusers' removed from /etc/gshadow
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (gshadow+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow+)
+Dec 01 16:47:55 joeri-sprengers incrond[81675]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:55 joeri-sprengers incrond[81676]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:55 joeri-sprengers groupdel[81674]: group 'vboxusers' removed
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: PATH (/etc) FILE (.pwd.lock) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:47:55 joeri-sprengers incrond[81298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/.pwd.lock)
+Dec 01 16:47:55 joeri-sprengers incrond[81688]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:55 joeri-sprengers incrond[81703]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:47:55 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:47:55 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:47:55 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:47:55 joeri-sprengers dbus-daemon[152]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.1984' (uid=0 pid=81791 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Dec 01 16:47:55 joeri-sprengers systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 66305.
+Dec 01 16:47:55 joeri-sprengers PackageKit[81794]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Dec 01 16:47:55 joeri-sprengers dbus-daemon[152]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Dec 01 16:47:55 joeri-sprengers systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 66305.
+Dec 01 16:47:55 joeri-sprengers sudo[81334]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:48:43 joeri-sprengers sudo[81802]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-get install virtualbox[0m
+Dec 01 16:48:43 joeri-sprengers sudo[81802]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:48:43 joeri-sprengers sudo[81802]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:48:52 joeri-sprengers incrond[81732]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:48:52 joeri-sprengers incrond[81732]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 16:48:52 joeri-sprengers incrond[81732]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:48:52 joeri-sprengers incrond[81732]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 16:48:56 joeri-sprengers incrond[81833]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:48:56 joeri-sprengers incrond[81833]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 16:48:56 joeri-sprengers incrond[81833]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:48:56 joeri-sprengers incrond[81833]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 16:48:59 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:48:59 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:48:59 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:49:00 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:49:00 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:49:00 joeri-sprengers systemd[1]: Starting VirtualBox Web Service...
+-- Subject: A start job for unit vboxweb.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has begun execution.
+-- 
+-- The job identifier is 66353.
+Dec 01 16:49:00 joeri-sprengers systemd[1]: vboxweb.service: Can't open PID file /run/vboxweb.pid (yet?) after start: Operation not permitted
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvboxweb.service: Failed with result 'protocol'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit vboxweb.service has entered the 'failed' state with result 'protocol'.
+Dec 01 16:49:00 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start VirtualBox Web Service.[0m
+-- Subject: A start job for unit vboxweb.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has finished with a failure.
+-- 
+-- The job identifier is 66353 and the job result is failed.
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (group.81977) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group.81977)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (gshadow.81977) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow.81977)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (group-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group-)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:49:00 joeri-sprengers groupadd[81977]: group added to /etc/group: name=vboxusers, GID=129
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (group+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group+)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (gshadow-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow-)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:49:00 joeri-sprengers groupadd[81977]: group added to /etc/gshadow: name=vboxusers
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (gshadow+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow+)
+Dec 01 16:49:00 joeri-sprengers incrond[81978]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:49:00 joeri-sprengers groupadd[81977]: new group: name=vboxusers, GID=129
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: PATH (/etc) FILE (.pwd.lock) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81848]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/.pwd.lock)
+Dec 01 16:49:00 joeri-sprengers incrond[81979]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:49:00 joeri-sprengers incrond[81990]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:49:00 joeri-sprengers incrond[81995]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:49:00 joeri-sprengers incrond[81996]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:00 joeri-sprengers incrond[81996]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:49:00 joeri-sprengers incrond[82000]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:49:01 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:49:01 joeri-sprengers systemd[1]: Starting LSB: VirtualBox Linux kernel module...
+-- Subject: A start job for unit virtualbox.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has begun execution.
+-- 
+-- The job identifier is 66400.
+Dec 01 16:49:01 joeri-sprengers virtualbox[82217]:  * Loading VirtualBox kernel modules...
+Dec 01 16:49:01 joeri-sprengers virtualbox[82217]:  * No suitable module for running kernel found
+Dec 01 16:49:01 joeri-sprengers virtualbox[82217]:    ...fail!
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mvirtualbox.service: Control process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit virtualbox.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvirtualbox.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit virtualbox.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: VirtualBox Linux kernel module.[0m
+-- Subject: A start job for unit virtualbox.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has finished with a failure.
+-- 
+-- The job identifier is 66400 and the job result is failed.
+Dec 01 16:49:01 joeri-sprengers incrond[82066]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:49:01 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 16:49:01 joeri-sprengers incrond[82234]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:49:01 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:49:01 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:49:04 joeri-sprengers sudo[81802]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:49:39 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#19554 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:50:12 joeri-sprengers sudo[82413]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-get remove --purge virtualbox[0m
+Dec 01 16:50:12 joeri-sprengers sudo[82413]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:50:12 joeri-sprengers sudo[82413]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:50:18 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:19 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:19 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:22 joeri-sprengers incrond[82066]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:22 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 16:50:22 joeri-sprengers incrond[82641]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:50:24 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:24 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:24 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:25 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:25 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:25 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:25 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:25 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:25 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (group.82744) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group.82744)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (gshadow.82744) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow.82744)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (group-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group-)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:50:26 joeri-sprengers groupdel[82744]: group 'vboxusers' removed from /etc/group
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (group+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group+)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (gshadow-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow-)
+Dec 01 16:50:26 joeri-sprengers incrond[8145]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[8145]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:50:26 joeri-sprengers groupdel[82744]: group 'vboxusers' removed from /etc/gshadow
+Dec 01 16:50:26 joeri-sprengers incrond[82058]: PATH (/etc) FILE (gshadow+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82058]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow+)
+Dec 01 16:50:26 joeri-sprengers incrond[82746]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:50:26 joeri-sprengers incrond[82745]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:50:26 joeri-sprengers groupdel[82744]: group 'vboxusers' removed
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: PATH (/etc) FILE (.pwd.lock) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82066]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/.pwd.lock)
+Dec 01 16:50:26 joeri-sprengers incrond[82751]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:50:26 joeri-sprengers incrond[82751]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:50:26 joeri-sprengers incrond[82754]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:50:26 joeri-sprengers incrond[82782]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:50:26 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:50:26 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:50:26 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:50:26 joeri-sprengers sudo[82413]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:54:51 joeri-sprengers sudo[82906]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt-key add -[0m
+Dec 01 16:54:51 joeri-sprengers sudo[82906]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:54:51 joeri-sprengers sudo[82906]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: PATH (/etc/apt) FILE (.#lk0x0000557b810f38b0.joeri-sprengers.82978) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x0000557b810f38b0.joeri-sprengers.82978)
+Dec 01 16:54:52 joeri-sprengers incrond[82981]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x000055c29feab8d0.joeri-sprengers.83003) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x000055c29feab8d0.joeri-sprengers.83003)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x0000564a43eaa8d0.joeri-sprengers.83019) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x0000564a43eaa8d0.joeri-sprengers.83019)
+Dec 01 16:54:52 joeri-sprengers incrond[83006]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x00005583a0e378d0.joeri-sprengers.83037) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:54:52 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x00005583a0e378d0.joeri-sprengers.83037)
+Dec 01 16:54:52 joeri-sprengers incrond[83024]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:54:52 joeri-sprengers incrond[83042]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:54:52 joeri-sprengers sudo[82906]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:55:01 joeri-sprengers sudo[83098]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt-key add[0m
+Dec 01 16:55:01 joeri-sprengers sudo[83098]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:55:01 joeri-sprengers sudo[83098]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt) FILE (.#lk0x000055e5157038b0.joeri-sprengers.83174) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x000055e5157038b0.joeri-sprengers.83174)
+Dec 01 16:55:02 joeri-sprengers incrond[83177]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x00005557e31dc8d0.joeri-sprengers.83199) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x00005557e31dc8d0.joeri-sprengers.83199)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x000055775f08b8d0.joeri-sprengers.83215) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x000055775f08b8d0.joeri-sprengers.83215)
+Dec 01 16:55:02 joeri-sprengers incrond[83202]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x0000563048e368d0.joeri-sprengers.83233) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x0000563048e368d0.joeri-sprengers.83233)
+Dec 01 16:55:02 joeri-sprengers incrond[83220]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:02 joeri-sprengers incrond[83238]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt) FILE (.#lk0x0000555a0e679900.joeri-sprengers.83359) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x0000555a0e679900.joeri-sprengers.83359)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: PATH (/etc/apt) FILE (trusted.gpg.tmp) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:02 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.tmp)
+Dec 01 16:55:02 joeri-sprengers sudo[83098]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:55:02 joeri-sprengers incrond[83362]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:02 joeri-sprengers incrond[83363]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:04 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#14519 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 16:55:19 joeri-sprengers sudo[83389]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/add-apt-repository deb http://download.virtualbox.org/virtualbox/debian bionic contrib[0m
+Dec 01 16:55:19 joeri-sprengers sudo[83389]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:55:19 joeri-sprengers sudo[83389]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[82807]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[81990]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:55:19 joeri-sprengers incrond[83402]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:55:19 joeri-sprengers incrond[83402]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list.save)
+Dec 01 16:55:19 joeri-sprengers incrond[83401]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:19 joeri-sprengers incrond[83405]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:55:23 joeri-sprengers sudo[83389]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:55:56 joeri-sprengers sudo[84008]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt-get install virtualbox6.0[0m
+Dec 01 16:55:56 joeri-sprengers sudo[84008]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:55:56 joeri-sprengers sudo[84008]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:55:56 joeri-sprengers sudo[84008]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:57:54 joeri-sprengers sudo[84025]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt-key add -[0m
+Dec 01 16:57:54 joeri-sprengers sudo[84025]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:57:54 joeri-sprengers sudo[84025]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: PATH (/etc/apt) FILE (.#lk0x0000557924b3f8b0.joeri-sprengers.84097) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/.#lk0x0000557924b3f8b0.joeri-sprengers.84097)
+Dec 01 16:57:55 joeri-sprengers incrond[84100]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x0000558fe30068d0.joeri-sprengers.84122) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x0000558fe30068d0.joeri-sprengers.84122)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x00005612d59588d0.joeri-sprengers.84138) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x00005612d59588d0.joeri-sprengers.84138)
+Dec 01 16:57:55 joeri-sprengers incrond[84125]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: PATH (/etc/apt/trusted.gpg.d) FILE (.#lk0x000055a5b9da28d0.joeri-sprengers.84155) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:57:55 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/trusted.gpg.d/.#lk0x000055a5b9da28d0.joeri-sprengers.84155)
+Dec 01 16:57:55 joeri-sprengers incrond[84143]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:57:55 joeri-sprengers incrond[84160]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:57:55 joeri-sprengers sudo[84025]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:58:02 joeri-sprengers sudo[84221]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/add-apt-repository deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian focal contrib[0m
+Dec 01 16:58:02 joeri-sprengers sudo[84221]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:58:02 joeri-sprengers sudo[84221]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[83475]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84235]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84236]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84237]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84238]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84238]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84234]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84233]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84299]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84299]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84299]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84299]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84310]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84300]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84306]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84301]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84305]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84298]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84302]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84303]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84312]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84309]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84313]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84314]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: PATH (/etc/apt) FILE (sources.list.save) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.save)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84311]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84315]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84458]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84458]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84459]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84462]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84468]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84461]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84461]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84461]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84461]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: PATH (/etc/apt) FILE (sources.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84466]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84467]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84469]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84546]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84545]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84545]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84549]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84548]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84547]: PATH (/etc/apt/sources.list.d) FILE (virtualbox.org.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84547]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/virtualbox.org.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84547]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84547]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:03 joeri-sprengers incrond[84603]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:58:03 joeri-sprengers incrond[84602]: PATH (/etc/apt/sources.list.d) FILE (ntop-stable.list) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:03 joeri-sprengers incrond[84602]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/sources.list.d/ntop-stable.list)
+Dec 01 16:58:05 joeri-sprengers sudo[84221]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:58:16 joeri-sprengers sudo[85125]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt update[0m
+Dec 01 16:58:16 joeri-sprengers sudo[85125]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:58:16 joeri-sprengers sudo[85125]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:58:18 joeri-sprengers sudo[85125]: pam_unix(sudo:session): session closed for user root
+Dec 01 16:58:18 joeri-sprengers sudo[85622]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt install virtualbox-6.0[0m
+Dec 01 16:58:18 joeri-sprengers sudo[85622]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 16:58:18 joeri-sprengers sudo[85622]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 16:58:27 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:58:27 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:58:27 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:58:27 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:58:28 joeri-sprengers incrond[84635]: PATH (/etc/modprobe.d) FILE (blacklist-vboxpci.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:28 joeri-sprengers incrond[84635]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/modprobe.d/blacklist-vboxpci.conf.dpkg-new)
+Dec 01 16:58:37 joeri-sprengers incrond[85870]: PATH (/etc/modprobe.d) FILE (blacklist-vboxpci.conf.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:37 joeri-sprengers incrond[85870]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/modprobe.d/blacklist-vboxpci.conf.dpkg-new)
+Dec 01 16:58:38 joeri-sprengers incrond[85880]: PATH (/etc/init.d) FILE (grub-common.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:38 joeri-sprengers incrond[85880]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/grub-common.dpkg-new)
+Dec 01 16:58:38 joeri-sprengers incrond[85880]: PATH (/etc/pm/sleep.d) FILE (10_grub-common.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:38 joeri-sprengers incrond[85880]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/pm/sleep.d/10_grub-common.dpkg-new)
+Dec 01 16:58:39 joeri-sprengers incrond[85941]: PATH (/etc/init.d) FILE (grub-common.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:39 joeri-sprengers incrond[85941]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/grub-common.dpkg-new)
+Dec 01 16:58:39 joeri-sprengers incrond[85941]: PATH (/etc/pm/sleep.d) FILE (10_grub-common.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:39 joeri-sprengers incrond[85941]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/pm/sleep.d/10_grub-common.dpkg-new)
+Dec 01 16:58:39 joeri-sprengers incrond[85954]: PATH (/etc/kernel/postinst.d) FILE (zz-update-grub.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:39 joeri-sprengers incrond[85954]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/zz-update-grub.dpkg-new)
+Dec 01 16:58:39 joeri-sprengers incrond[1998]: PATH (/etc/kernel/postinst.d) FILE (zz-update-grub.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:39 joeri-sprengers incrond[1998]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/zz-update-grub.dpkg-new)
+Dec 01 16:58:40 joeri-sprengers incrond[85989]: PATH (/etc/kernel/postinst.d) FILE (initramfs-tools.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:40 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/initramfs-tools.dpkg-new)
+Dec 01 16:58:40 joeri-sprengers incrond[85989]: PATH (/etc/kernel/postinst.d) FILE (initramfs-tools.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:58:40 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/kernel/postinst.d/initramfs-tools.dpkg-new)
+Dec 01 16:58:40 joeri-sprengers incrond[86100]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: Starting GRUB failed boot detection...
+-- Subject: A start job for unit grub-initrd-fallback.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-initrd-fallback.service has begun execution.
+-- 
+-- The job identifier is 66450.
+Dec 01 16:59:02 joeri-sprengers grub-editenv[86593]: /usr/bin/grub-editenv: error: cannot open `/boot/grub/grubenv.new': No such file or directory.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mgrub-initrd-fallback.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit grub-initrd-fallback.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgrub-initrd-fallback.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit grub-initrd-fallback.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start GRUB failed boot detection.[0m
+-- Subject: A start job for unit grub-initrd-fallback.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-initrd-fallback.service has finished with a failure.
+-- 
+-- The job identifier is 66450 and the job result is failed.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:02 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:03 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:03 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:03 joeri-sprengers systemd[1]: Starting LSB: Record successful boot for GRUB...
+-- Subject: A start job for unit grub-common.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-common.service has begun execution.
+-- 
+-- The job identifier is 66497.
+Dec 01 16:59:03 joeri-sprengers grub-common[86656]:  * Recording successful boot for GRUB
+Dec 01 16:59:03 joeri-sprengers grub-common[86656]:    ...done.
+Dec 01 16:59:03 joeri-sprengers systemd[1]: Started LSB: Record successful boot for GRUB.
+-- Subject: A start job for unit grub-common.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-common.service has finished successfully.
+-- 
+-- The job identifier is 66497.
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (group.86685) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group.86685)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (gshadow.86685) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow.86685)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (group-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group-)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:59:03 joeri-sprengers groupadd[86685]: group added to /etc/group: name=vboxusers, GID=129
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (group+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group+)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (gshadow-) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow-)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[85989]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:59:03 joeri-sprengers groupadd[86685]: group added to /etc/gshadow: name=vboxusers
+Dec 01 16:59:03 joeri-sprengers incrond[86101]: PATH (/etc) FILE (gshadow+) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[86101]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow+)
+Dec 01 16:59:03 joeri-sprengers groupadd[86685]: new group: name=vboxusers, GID=129
+Dec 01 16:59:03 joeri-sprengers incrond[86101]: PATH (/etc) FILE (.pwd.lock) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[86101]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/.pwd.lock)
+Dec 01 16:59:03 joeri-sprengers incrond[86687]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:03 joeri-sprengers incrond[86686]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:03 joeri-sprengers incrond[86692]: PATH (/etc) FILE (group) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[86692]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/group)
+Dec 01 16:59:03 joeri-sprengers incrond[86695]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:03 joeri-sprengers incrond[86700]: PATH (/etc) FILE (gshadow) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:03 joeri-sprengers incrond[86700]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/gshadow)
+Dec 01 16:59:03 joeri-sprengers incrond[86705]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:03 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:03 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:04 joeri-sprengers vboxdrv.sh[86940]: [0;1;39m[0;1;31m[0;1;39mStopping VirtualBox services.[0m
+Dec 01 16:59:04 joeri-sprengers vboxdrv.sh[86947]: [0;1;39m[0;1;31m[0;1;39mVirtualBox services stopped.[0m
+Dec 01 16:59:04 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:05 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:06 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:07 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:07 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:08 joeri-sprengers vboxdrv.sh[87397]: [0;1;39m[0;1;31m[0;1;39mStopping VirtualBox services.[0m
+Dec 01 16:59:08 joeri-sprengers vboxdrv.sh[87404]: [0;1;39m[0;1;31m[0;1;39mVirtualBox services stopped.[0m
+Dec 01 16:59:08 joeri-sprengers incrond[86775]: PATH (/etc/udev/rules.d) FILE (60-vboxdrv.rules) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:08 joeri-sprengers incrond[86775]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/udev/rules.d/60-vboxdrv.rules)
+Dec 01 16:59:08 joeri-sprengers vboxdrv.sh[87492]: [0;1;39m[0;1;31m[0;1;39mStarting VirtualBox services.[0m
+Dec 01 16:59:08 joeri-sprengers vboxdrv.sh[87497]: [0;1;39m[0;1;31m[0;1;39mBuilding VirtualBox kernel modules.[0m
+Dec 01 16:59:09 joeri-sprengers incrond[87409]: PATH (/etc/default) FILE (grub) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:09 joeri-sprengers incrond[87409]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/grub)
+Dec 01 16:59:09 joeri-sprengers systemd[1]: Reloading.
+Dec 01 16:59:09 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 16:59:09 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 16:59:14 joeri-sprengers incrond[89019]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: PATH (/etc) FILE (ld.so.cache~) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/ld.so.cache~)
+Dec 01 16:59:14 joeri-sprengers incrond[89034]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: PATH (/etc/apt/apt.conf.d) FILE (01autoremove-kernels.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 16:59:14 joeri-sprengers incrond[87608]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/apt/apt.conf.d/01autoremove-kernels.dpkg-new)
+Dec 01 16:59:14 joeri-sprengers incrond[89090]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 16:59:41 joeri-sprengers sudo[85622]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:00:05 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#12303 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:00:36 joeri-sprengers sudo[521]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/sbin/vboxconfig[0m
+Dec 01 17:00:36 joeri-sprengers sudo[521]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:00:36 joeri-sprengers sudo[521]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:00:36 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:36 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:36 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:36 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:37 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:38 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:00:39 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:00:40 joeri-sprengers vboxdrv.sh[923]: [0;1;39m[0;1;31m[0;1;39mStopping VirtualBox services.[0m
+Dec 01 17:00:40 joeri-sprengers vboxdrv.sh[930]: [0;1;39m[0;1;31m[0;1;39mVirtualBox services stopped.[0m
+Dec 01 17:00:40 joeri-sprengers incrond[87608]: PATH (/etc/udev/rules.d) FILE (60-vboxdrv.rules) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:00:40 joeri-sprengers incrond[87608]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/udev/rules.d/60-vboxdrv.rules)
+Dec 01 17:00:40 joeri-sprengers vboxdrv.sh[1018]: [0;1;39m[0;1;31m[0;1;39mStarting VirtualBox services.[0m
+Dec 01 17:00:40 joeri-sprengers vboxdrv.sh[1023]: [0;1;39m[0;1;31m[0;1;39mBuilding VirtualBox kernel modules.[0m
+Dec 01 17:00:40 joeri-sprengers sudo[521]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:04:45 joeri-sprengers PackageKit[81794]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon quit[0m
+Dec 01 17:04:45 joeri-sprengers systemd[1]: packagekit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit packagekit.service has successfully entered the 'dead' state.
+Dec 01 17:05:14 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#16839 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:06:50 joeri-sprengers sudo[1090]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc/apt/sources.list.d ; USER=root ; COMMAND=/usr/bin/apt remove virtualbox virtualbox-*[0m
+Dec 01 17:06:50 joeri-sprengers sudo[1090]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:06:50 joeri-sprengers sudo[1090]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:06:51 joeri-sprengers sudo[1090]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:09:01 joeri-sprengers systemd[1]: Starting Clean php session files...
+-- Subject: A start job for unit phpsessionclean.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit phpsessionclean.service has begun execution.
+-- 
+-- The job identifier is 66544.
+Dec 01 17:09:01 joeri-sprengers systemd[1]: phpsessionclean.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit phpsessionclean.service has successfully entered the 'dead' state.
+Dec 01 17:09:01 joeri-sprengers systemd[1]: Finished Clean php session files.
+-- Subject: A start job for unit phpsessionclean.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit phpsessionclean.service has finished successfully.
+-- 
+-- The job identifier is 66544.
+Dec 01 17:09:01 joeri-sprengers CRON[1148]: [0;1;31m[0;1;39m[0;1;31mpam_env(cron:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:09:01 joeri-sprengers CRON[1148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 01 17:09:01 joeri-sprengers CRON[1149]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Dec 01 17:09:01 joeri-sprengers CRON[1148]: pam_unix(cron:session): session closed for user root
+Dec 01 17:10:01 joeri-sprengers systemd[1]: Starting Cleanup of Temporary Directories...
+-- Subject: A start job for unit systemd-tmpfiles-clean.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-clean.service has begun execution.
+-- 
+-- The job identifier is 66591.
+Dec 01 17:10:01 joeri-sprengers systemd-tmpfiles[1152]: [0;1;39m[0;1;31m[0;1;39m/usr/lib/tmpfiles.d/elasticsearch.conf:1: Line references path below legacy directory /var/run/, updating /var/run/elasticsearch → /run/elasticsearch; please update the tmpfiles.d/ drop-in file accordingly.[0m
+Dec 01 17:10:01 joeri-sprengers systemd-tmpfiles[1152]: [0;1;39m[0;1;31m[0;1;39m/usr/lib/tmpfiles.d/vsftpd.conf:1: Line references path below legacy directory /var/run/, updating /var/run/vsftpd/empty → /run/vsftpd/empty; please update the tmpfiles.d/ drop-in file accordingly.[0m
+Dec 01 17:10:01 joeri-sprengers systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-tmpfiles-clean.service has successfully entered the 'dead' state.
+Dec 01 17:10:01 joeri-sprengers systemd[1]: Finished Cleanup of Temporary Directories.
+-- Subject: A start job for unit systemd-tmpfiles-clean.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-clean.service has finished successfully.
+-- 
+-- The job identifier is 66591.
+Dec 01 17:10:20 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#11153 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:15:24 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#16945 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: Loading modules from directory: /usr/lib/dovecot/modules/auth[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: Module loaded: /usr/lib/dovecot/modules/auth/lib20_auth_var_expand_crypt.so[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: Module loaded: /usr/lib/dovecot/modules/auth/libdriver_mysql.so[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: Read auth token secret from /var/run/dovecot/auth-token-secret.dat[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: passwd-file /etc/dovecot/users: Read 10 users in 0 secs[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: auth client connected (pid=1336)[0m
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: imap-login: Aborted login (no auth attempts in 0 secs): user=<>, rip=79.183.15.252, lip=193.191.177.158, session=<3QAxb2m1EcRPtw/8>
+Dec 01 17:15:25 joeri-sprengers dovecot[350]: [0;38;5;245m[0;1;31m[0;38;5;245mauth: Debug: auth client connected (pid=1338)[0m
+Dec 01 17:15:26 joeri-sprengers dovecot[350]: imap-login: Aborted login (no auth attempts in 1 secs): user=<>, rip=79.183.15.252, lip=193.191.177.158, TLS, session=<ECZBb2m1F8RPtw/8>
+Dec 01 17:17:06 joeri-sprengers sudo[1359]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root/vagrant/test1vagrant ; USER=root ; COMMAND=/usr/bin/apt-get purge virtualbox-*[0m
+Dec 01 17:17:06 joeri-sprengers sudo[1359]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:17:06 joeri-sprengers sudo[1359]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:17:10 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:10 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:10 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:10 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:10 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:10 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:10 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:11 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers vboxdrv.sh[1596]: [0;1;39m[0;1;31m[0;1;39mStopping VirtualBox services.[0m
+Dec 01 17:17:12 joeri-sprengers vboxdrv.sh[1603]: [0;1;39m[0;1;31m[0;1;39mVirtualBox services stopped.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:12 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:16 joeri-sprengers incrond[935]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:17:16 joeri-sprengers incrond[935]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 17:17:16 joeri-sprengers incrond[2235]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:17 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:18 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:19 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:17:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:17:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:17:19 joeri-sprengers dbus-daemon[152]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.1996' (uid=0 pid=2440 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Dec 01 17:17:19 joeri-sprengers systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 66599.
+Dec 01 17:17:19 joeri-sprengers PackageKit[2443]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Dec 01 17:17:19 joeri-sprengers dbus-daemon[152]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Dec 01 17:17:19 joeri-sprengers systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 66599.
+Dec 01 17:17:19 joeri-sprengers sudo[1359]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:17:30 joeri-sprengers named[8934]: client @0x7f8664034a70 80.82.65.90#51035 (67b.org): query: 67b.org IN AAAA +E(0) (193.191.177.158)
+Dec 01 17:17:30 joeri-sprengers named[8934]: client @0x7f8664034a70 80.82.65.90#51035 (67b.org): query failed (REFUSED) for 67b.org/IN/AAAA at query.c:5425
+Dec 01 17:18:20 joeri-sprengers sudo[2475]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root/vagrant/test1vagrant ; USER=root ; COMMAND=/usr/bin/apt install virtualbox-5.1[0m
+Dec 01 17:18:20 joeri-sprengers sudo[2475]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:18:20 joeri-sprengers sudo[2475]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:18:20 joeri-sprengers sudo[2475]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:18:36 joeri-sprengers sudo[2480]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/root/vagrant/test1vagrant ; USER=root ; COMMAND=/usr/bin/apt install virtualbox[0m
+Dec 01 17:18:36 joeri-sprengers sudo[2480]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:18:36 joeri-sprengers sudo[2480]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:18:40 joeri-sprengers incrond[935]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:18:40 joeri-sprengers incrond[935]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 17:18:40 joeri-sprengers incrond[935]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:18:40 joeri-sprengers incrond[935]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 17:18:43 joeri-sprengers incrond[2548]: PATH (/etc/default) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:18:43 joeri-sprengers incrond[2548]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/default/virtualbox.dpkg-new)
+Dec 01 17:18:43 joeri-sprengers incrond[2548]: PATH (/etc/init.d) FILE (virtualbox.dpkg-new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:18:43 joeri-sprengers incrond[2548]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/init.d/virtualbox.dpkg-new)
+Dec 01 17:19:19 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:19:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:19:19 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: Starting VirtualBox Web Service...
+-- Subject: A start job for unit vboxweb.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has begun execution.
+-- 
+-- The job identifier is 66647.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: vboxweb.service: Can't open PID file /run/vboxweb.pid (yet?) after start: Operation not permitted
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvboxweb.service: Failed with result 'protocol'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit vboxweb.service has entered the 'failed' state with result 'protocol'.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start VirtualBox Web Service.[0m
+-- Subject: A start job for unit vboxweb.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vboxweb.service has finished with a failure.
+-- 
+-- The job identifier is 66647 and the job result is failed.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:19:20 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:19:21 joeri-sprengers systemd[1]: Starting LSB: VirtualBox Linux kernel module...
+-- Subject: A start job for unit virtualbox.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has begun execution.
+-- 
+-- The job identifier is 66694.
+Dec 01 17:19:21 joeri-sprengers virtualbox[5378]:  * Loading VirtualBox kernel modules...
+Dec 01 17:19:21 joeri-sprengers virtualbox[5378]:  * No suitable module for running kernel found
+Dec 01 17:19:21 joeri-sprengers virtualbox[5378]:    ...fail!
+Dec 01 17:19:21 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mvirtualbox.service: Control process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit virtualbox.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 17:19:21 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvirtualbox.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit virtualbox.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 17:19:21 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: VirtualBox Linux kernel module.[0m
+-- Subject: A start job for unit virtualbox.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has finished with a failure.
+-- 
+-- The job identifier is 66694 and the job result is failed.
+Dec 01 17:19:21 joeri-sprengers incrond[2563]: PATH (/etc) FILE (mailcap.new) EVENT (IN_CLOSE_WRITE)
+Dec 01 17:19:21 joeri-sprengers incrond[2563]: (system::etc.conf) CMD (/etc/scripts/backup.sh /etc/mailcap.new)
+Dec 01 17:19:21 joeri-sprengers incrond[5396]: [0;1;31m[0;1;39m[0;1;31mcannot exec process: Resource temporarily unavailable[0m
+Dec 01 17:19:21 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:19:21 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:19:21 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:19:24 joeri-sprengers sudo[2480]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:20:26 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#16096 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:24:29 joeri-sprengers PackageKit[2443]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon quit[0m
+Dec 01 17:24:29 joeri-sprengers systemd[1]: packagekit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit packagekit.service has successfully entered the 'dead' state.
+Dec 01 17:25:40 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#16951 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
+Dec 01 17:30:08 joeri-sprengers sudo[5682]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc ; USER=root ; COMMAND=/usr/bin/apt-get install linux-headers-amd64[0m
+Dec 01 17:30:08 joeri-sprengers sudo[5682]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:30:08 joeri-sprengers sudo[5682]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:30:08 joeri-sprengers sudo[5682]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:30:30 joeri-sprengers sudo[5686]: [0;1;39m[0;1;31m[0;1;39m    root : TTY=pts/2 ; PWD=/etc ; USER=root ; COMMAND=/usr/sbin/dpkg-reconfigure --priority low virtualbox-dkms[0m
+Dec 01 17:30:30 joeri-sprengers sudo[5686]: [0;1;31m[0;1;39m[0;1;31mpam_env(sudo:session): non-alphanumeric key '$ locale' in /etc/default/locale', ignoring[0m
+Dec 01 17:30:30 joeri-sprengers sudo[5686]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Dec 01 17:30:31 joeri-sprengers systemd[1]: Reloading.
+Dec 01 17:30:31 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.[0m
+Dec 01 17:30:31 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39m/lib/systemd/system/dovecot.service:19: PIDFile= references a path below legacy directory /var/run/, updating /var/run/dovecot/master.pid → /run/dovecot/master.pid; please update the unit file accordingly.[0m
+Dec 01 17:30:31 joeri-sprengers systemd[1]: Starting LSB: VirtualBox Linux kernel module...
+-- Subject: A start job for unit virtualbox.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has begun execution.
+-- 
+-- The job identifier is 66742.
+Dec 01 17:30:31 joeri-sprengers virtualbox[6405]:  * Loading VirtualBox kernel modules...
+Dec 01 17:30:32 joeri-sprengers virtualbox[6405]:  * No suitable module for running kernel found
+Dec 01 17:30:32 joeri-sprengers virtualbox[6405]:    ...fail!
+Dec 01 17:30:32 joeri-sprengers systemd[1]: [0;1;39m[0;1;31m[0;1;39mvirtualbox.service: Control process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit virtualbox.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 01 17:30:32 joeri-sprengers systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mvirtualbox.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit virtualbox.service has entered the 'failed' state with result 'exit-code'.
+Dec 01 17:30:32 joeri-sprengers systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: VirtualBox Linux kernel module.[0m
+-- Subject: A start job for unit virtualbox.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit virtualbox.service has finished with a failure.
+-- 
+-- The job identifier is 66742 and the job result is failed.
+Dec 01 17:30:32 joeri-sprengers sudo[5686]: pam_unix(sudo:session): session closed for user root
+Dec 01 17:30:41 joeri-sprengers named[8934]: client @0x7f8664034a70 193.191.177.254#15928 (joeri-sprengers.sb.uclllabs.be): query: joeri-sprengers.sb.uclllabs.be IN SOA -E(0)D (193.191.177.158)
