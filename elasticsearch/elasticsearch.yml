@@ -20,7 +20,7 @@ cluster.name: ELK
 #
 # Use a descriptive name for the node:
 #
-node.name: node-elastic
+node.name: elastic
 #
 # Add custom attributes to the node:
 #
@@ -52,20 +52,20 @@ path.logs: /var/log/elasticsearch
 #
 # Set the bind address to a specific IP (IPv4 or IPv6):
 #
-network.host: 0.0.0.0
+network.host: 193.191.177.158
 #
 # Set a custom port for HTTP:
 #
-http.port: 9200
+#http.port: 9200
 #
 # For more information, consult the network module documentation.
 #
-# --------------------------------- Discovery ----------------------------------
+# -------------------------------------------------------------------
 #
 # Pass an initial list of hosts to perform discovery when this node is started:
 # The default list of hosts is ["127.0.0.1", "[::1]"]
 #
-#discovery.seed_hosts: ["host1", "host2"]
+#discovery.seed_hosts: ["elastic"]
 #
 # Bootstrap the cluster using an initial set of master-eligible nodes:
 #
@@ -86,4 +86,8 @@ http.port: 9200
 # Require explicit names when deleting indices:
 #
 #action.destructive_requires_name: true
+#discovery.type:single-node
+#discovery.seed_hosts:
+#discovery.seed_hosts:
+#   - 193.191.177.158:9300
 discovery.type: single-node
